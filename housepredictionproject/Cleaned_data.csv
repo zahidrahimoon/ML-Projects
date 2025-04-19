@@ -1,0 +1,3001 @@
+,location,total_sqft,bath,balcony,price,bedrooms
+0,Indira Nagar,1145,2,1,9364.3,5
+1,Koramangala,1126,5,0,10962.21,4
+2,BTM Layout,810,2,0,4613.14,2
+3,Koramangala,1643,3,3,12895.12,3
+4,Electronic City,1199,1,2,3933.13,3
+5,Marathahalli,953,1,2,4614.76,2
+6,HSR Layout,1246,5,2,7945.36,1
+7,Jayanagar,1766,4,2,12552.24,5
+8,Marathahalli,1217,1,0,5172.49,4
+9,Koramangala,1935,1,3,19520.27,5
+10,Marathahalli,1305,3,2,7302.85,3
+11,Marathahalli,1102,4,3,5751.41,3
+12,Whitefield,1030,1,1,7169.74,4
+13,Indira Nagar,1036,4,1,6755.87,5
+14,Jayanagar,943,1,1,5230.64,1
+15,Koramangala,1227,1,0,10633.51,2
+16,Koramangala,891,5,2,7731.05,2
+17,HSR Layout,1672,3,1,9733.95,2
+18,BTM Layout,754,3,2,4480.15,2
+19,Koramangala,1206,5,0,11323.19,3
+20,Indira Nagar,1675,5,2,9730.09,3
+21,Whitefield,1688,4,1,6793.38,3
+22,BTM Layout,1312,5,0,6855.54,1
+23,Marathahalli,1390,3,1,7308.5,4
+24,Jayanagar,876,3,2,7260.67,1
+25,HSR Layout,1122,5,2,7735.17,1
+26,Whitefield,1159,5,3,7720.5,5
+27,Indira Nagar,1791,5,0,10490.57,4
+28,Whitefield,1210,2,2,5456.19,2
+29,Whitefield,1597,3,2,10628.89,1
+30,Jayanagar,1181,1,1,8467.92,3
+31,BTM Layout,1280,3,3,7774.19,4
+32,BTM Layout,1249,2,3,9282.48,3
+33,HSR Layout,1292,3,3,10450.83,5
+34,BTM Layout,878,3,3,6572.06,1
+35,Whitefield,1399,5,0,7776.47,5
+36,Jayanagar,1624,5,3,8517.5,4
+37,Whitefield,1676,5,2,9403.24,3
+38,Marathahalli,1135,4,3,6075.94,1
+39,Electronic City,1131,1,1,3656.86,1
+40,Electronic City,1221,2,1,4348.49,3
+41,Koramangala,1790,3,3,11092.69,4
+42,Whitefield,988,1,1,4236.49,1
+43,BTM Layout,1827,5,1,10811.0,5
+44,Koramangala,1322,4,0,12741.3,3
+45,Marathahalli,901,1,3,5111.71,2
+46,Electronic City,1100,5,3,5977.74,5
+47,Indira Nagar,1561,4,3,10447.14,5
+48,Koramangala,1201,5,3,10764.7,3
+49,Indira Nagar,1436,1,2,12069.62,2
+50,Electronic City,1847,3,2,10111.57,4
+51,Marathahalli,1589,4,2,6981.21,2
+52,Whitefield,794,5,1,4707.96,2
+53,Marathahalli,1010,3,2,5223.43,3
+54,Whitefield,1261,5,3,5570.07,1
+55,Whitefield,1498,4,3,6350.36,5
+56,Whitefield,1794,4,2,11207.27,5
+57,Electronic City,1212,5,3,6272.98,1
+58,Jayanagar,889,3,3,4358.46,3
+59,Koramangala,1416,1,2,10312.5,4
+60,Koramangala,1036,2,1,7650.96,5
+61,HSR Layout,640,3,1,4517.08,1
+62,Indira Nagar,1384,3,1,10873.82,4
+63,HSR Layout,1469,2,0,10910.64,2
+64,Koramangala,1151,2,3,9341.44,3
+65,Koramangala,1453,3,1,14604.08,1
+66,Jayanagar,1021,2,3,5113.9,2
+67,Indira Nagar,726,1,1,5131.59,2
+68,Marathahalli,1584,3,0,10145.5,2
+69,Koramangala,1681,2,3,13418.29,2
+70,HSR Layout,833,3,1,6044.24,2
+71,HSR Layout,785,4,3,3675.82,2
+72,Whitefield,1475,3,3,8747.44,5
+73,Indira Nagar,726,2,1,7011.89,2
+74,Jayanagar,1327,3,3,7791.08,2
+75,Jayanagar,1319,2,1,7325.97,1
+76,Whitefield,1128,5,3,4470.1,1
+77,HSR Layout,747,4,2,5148.03,2
+78,Koramangala,1568,2,2,10046.67,4
+79,Marathahalli,1640,4,3,6484.73,4
+80,BTM Layout,1085,4,0,7982.4,1
+81,BTM Layout,1820,2,0,8726.1,4
+82,HSR Layout,1417,4,2,8918.6,4
+83,Indira Nagar,1198,1,2,6574.47,1
+84,Whitefield,1213,2,0,5122.37,1
+85,Electronic City,1144,1,1,5070.13,5
+86,HSR Layout,1213,5,3,9817.3,2
+87,Marathahalli,1017,3,1,4252.01,5
+88,Koramangala,1034,3,0,9229.15,4
+89,Marathahalli,1276,1,2,5246.03,2
+90,BTM Layout,1031,3,1,6348.93,3
+91,Indira Nagar,690,4,1,4415.63,1
+92,Koramangala,890,1,3,5650.79,2
+93,Indira Nagar,1041,5,0,5741.36,5
+94,BTM Layout,1085,1,3,7270.62,2
+95,Jayanagar,1662,4,2,12282.06,3
+96,Whitefield,1257,2,3,6820.94,4
+97,BTM Layout,1767,5,1,9317.01,4
+98,BTM Layout,1783,1,0,9698.33,4
+99,Indira Nagar,1363,5,1,10301.96,4
+100,HSR Layout,1277,2,3,10211.14,2
+101,Whitefield,1558,4,2,10666.42,5
+102,Koramangala,1118,1,3,11620.37,4
+103,Koramangala,952,2,1,7073.52,3
+104,Whitefield,1725,3,1,6777.08,4
+105,Electronic City,1138,5,3,4942.96,3
+106,Electronic City,1277,1,0,6449.62,3
+107,Marathahalli,1665,1,2,9376.63,4
+108,BTM Layout,1692,3,1,8207.56,2
+109,BTM Layout,1607,5,3,10861.76,4
+110,BTM Layout,1188,2,2,8881.01,2
+111,Whitefield,1054,3,1,5291.24,1
+112,Indira Nagar,814,2,1,4663.23,3
+113,Whitefield,1212,2,3,4869.24,3
+114,Koramangala,1024,3,2,7026.27,4
+115,Indira Nagar,1439,1,2,8797.24,5
+116,BTM Layout,1581,3,0,9601.13,5
+117,Electronic City,1526,1,2,8259.87,1
+118,Electronic City,1337,1,1,7819.99,3
+119,HSR Layout,1849,2,1,9550.28,5
+120,Whitefield,1539,4,1,10070.56,1
+121,BTM Layout,1666,5,1,9617.94,4
+122,Electronic City,1037,2,2,5306.23,1
+123,Electronic City,1716,1,0,9539.86,5
+124,BTM Layout,1208,3,0,8237.86,1
+125,BTM Layout,1098,5,2,8155.97,1
+126,HSR Layout,1365,5,0,8011.7,5
+127,Electronic City,1501,5,1,6963.88,5
+128,Electronic City,783,3,3,2852.12,2
+129,Koramangala,1581,3,3,13069.57,5
+130,HSR Layout,1152,1,2,6163.89,4
+131,Marathahalli,1278,5,3,5546.59,2
+132,Jayanagar,1385,2,0,10220.96,2
+133,Indira Nagar,1191,5,1,10023.87,5
+134,Jayanagar,1802,3,1,14424.84,5
+135,BTM Layout,1001,2,0,5598.67,1
+136,HSR Layout,1562,5,1,7983.89,4
+137,Marathahalli,1100,4,0,4763.46,4
+138,Koramangala,712,1,3,5305.05,2
+139,Marathahalli,1546,5,3,9216.87,3
+140,Indira Nagar,1147,1,2,6243.49,2
+141,Whitefield,1612,3,3,9710.86,3
+142,Jayanagar,1184,1,2,8218.0,4
+143,HSR Layout,1778,2,0,9801.6,5
+144,Jayanagar,1682,1,0,9970.81,2
+145,Marathahalli,1060,4,1,4397.56,1
+146,Jayanagar,1609,2,2,11041.68,5
+147,Jayanagar,1114,3,2,7745.4,2
+148,HSR Layout,1960,4,2,9739.62,5
+149,HSR Layout,1271,5,3,6597.09,2
+150,Marathahalli,1484,5,2,6221.65,1
+151,HSR Layout,1811,2,3,11756.82,4
+152,BTM Layout,1767,3,0,11446.02,5
+153,BTM Layout,1536,4,2,9937.64,4
+154,BTM Layout,1864,1,3,11044.73,5
+155,Whitefield,1928,2,1,10037.01,5
+156,Koramangala,1046,3,1,6706.06,1
+157,HSR Layout,1546,5,3,11115.4,4
+158,BTM Layout,1435,5,0,9551.97,3
+159,Jayanagar,1763,5,3,11269.07,4
+160,HSR Layout,1111,2,3,9228.38,4
+161,Indira Nagar,1121,1,1,7341.33,4
+162,HSR Layout,1687,1,1,11895.64,3
+163,Koramangala,1193,4,2,8943.82,1
+164,Koramangala,1128,3,0,10526.45,4
+165,Jayanagar,1454,2,2,9451.69,1
+166,BTM Layout,1687,2,3,11699.56,3
+167,Whitefield,1453,2,1,8498.13,4
+168,Marathahalli,1127,3,0,6544.72,5
+169,Whitefield,1436,1,0,8029.09,3
+170,Electronic City,1518,5,3,5677.97,5
+171,Koramangala,1471,4,3,9778.24,2
+172,BTM Layout,1328,3,0,5802.35,3
+173,Electronic City,1551,1,1,6582.44,1
+174,HSR Layout,984,4,1,7925.3,1
+175,HSR Layout,1614,5,2,11710.95,5
+176,HSR Layout,1318,4,2,8056.7,5
+177,BTM Layout,1140,1,0,6897.07,1
+178,Indira Nagar,1413,1,2,13548.35,5
+179,Indira Nagar,1663,5,3,9042.61,2
+180,BTM Layout,1641,4,2,10856.42,3
+181,Indira Nagar,1505,3,3,12423.22,2
+182,HSR Layout,1242,2,0,7731.01,3
+183,HSR Layout,1200,5,2,6837.06,1
+184,Indira Nagar,1069,5,1,9029.59,3
+185,HSR Layout,817,4,0,3737.79,2
+186,Indira Nagar,1841,5,1,9914.5,4
+187,HSR Layout,1193,2,1,7189.32,3
+188,Indira Nagar,1603,3,1,8506.14,4
+189,BTM Layout,903,2,0,3969.48,2
+190,Koramangala,1526,5,1,11035.42,5
+191,BTM Layout,1923,1,2,10430.84,5
+192,Koramangala,1681,5,2,17397.99,4
+193,HSR Layout,1181,4,0,9406.48,2
+194,BTM Layout,1188,3,3,7350.41,2
+195,Jayanagar,682,2,1,6154.66,1
+196,Koramangala,764,5,3,6407.96,1
+197,Electronic City,1241,5,2,5957.81,4
+198,HSR Layout,779,1,2,3851.07,2
+199,Koramangala,837,1,3,8048.26,1
+200,Jayanagar,971,1,3,7659.84,3
+201,Jayanagar,1898,4,3,17163.87,4
+202,Indira Nagar,1606,1,1,9298.06,2
+203,Marathahalli,1599,3,2,7585.28,5
+204,Jayanagar,1180,2,1,9792.15,3
+205,Whitefield,1110,1,0,6228.96,5
+206,Koramangala,1483,2,0,11210.27,2
+207,Marathahalli,1133,3,3,4039.7,5
+208,Jayanagar,1325,1,3,11176.85,3
+209,Marathahalli,1470,1,3,7471.01,5
+210,Indira Nagar,1779,3,3,10145.84,4
+211,Whitefield,649,4,3,4013.53,1
+212,Marathahalli,965,3,2,5694.27,3
+213,Whitefield,1477,5,2,6157.85,5
+214,Whitefield,927,3,0,4161.66,1
+215,Marathahalli,1127,2,0,5240.27,2
+216,Jayanagar,693,2,1,4616.8,1
+217,Marathahalli,1869,5,1,9500.73,5
+218,Whitefield,885,2,1,4427.61,3
+219,BTM Layout,1311,1,1,8990.55,2
+220,BTM Layout,1162,5,1,8410.2,1
+221,HSR Layout,1473,4,1,7809.56,4
+222,Whitefield,1068,2,1,4206.74,3
+223,HSR Layout,1531,5,1,8451.43,2
+224,Electronic City,1575,3,0,8017.01,1
+225,Indira Nagar,1544,1,0,11708.95,3
+226,HSR Layout,773,1,0,6398.68,2
+227,BTM Layout,1527,4,0,7205.54,1
+228,BTM Layout,920,3,1,4146.71,2
+229,Koramangala,701,2,1,6196.77,1
+230,Koramangala,1317,5,0,12937.42,2
+231,HSR Layout,1470,5,2,11815.53,1
+232,Indira Nagar,1967,3,3,10562.84,5
+233,Indira Nagar,1276,1,0,8193.74,3
+234,HSR Layout,1821,2,2,9446.16,5
+235,BTM Layout,763,3,2,3674.9,1
+236,Electronic City,1559,1,1,8462.63,4
+237,Koramangala,1323,3,1,10501.03,1
+238,Jayanagar,1259,2,1,8865.96,4
+239,Jayanagar,889,5,3,5658.38,2
+240,Indira Nagar,1867,5,0,11490.39,5
+241,Indira Nagar,1257,5,0,12159.96,2
+242,BTM Layout,1128,1,1,5066.59,3
+243,Koramangala,782,1,3,7236.99,2
+244,Koramangala,922,3,0,6962.84,1
+245,Electronic City,1009,4,3,3776.22,1
+246,BTM Layout,1681,3,0,9739.22,2
+247,BTM Layout,1395,3,0,10767.41,3
+248,Whitefield,833,5,0,4904.23,3
+249,Marathahalli,1680,5,2,8851.7,5
+250,Marathahalli,1592,5,1,9082.46,1
+251,Jayanagar,1515,4,3,9270.99,2
+252,Indira Nagar,1313,2,3,10081.45,2
+253,Whitefield,1370,4,1,6403.12,3
+254,Marathahalli,1659,5,2,7647.87,2
+255,HSR Layout,1131,1,0,6210.1,4
+256,BTM Layout,1491,4,3,6288.77,1
+257,Jayanagar,1625,3,1,9195.69,4
+258,BTM Layout,1429,4,0,8867.19,5
+259,Indira Nagar,748,3,1,4927.64,1
+260,Indira Nagar,1138,4,0,9970.69,3
+261,Whitefield,928,3,1,5125.68,4
+262,BTM Layout,1590,3,0,11646.9,4
+263,Electronic City,686,5,2,3312.46,1
+264,Whitefield,1440,4,0,8721.5,2
+265,HSR Layout,1330,4,3,8780.66,5
+266,Marathahalli,1093,2,0,6106.65,5
+267,Marathahalli,1891,2,2,10458.28,4
+268,Whitefield,1829,4,3,9566.17,4
+269,Electronic City,1291,1,1,6951.39,5
+270,BTM Layout,1828,1,0,9426.18,5
+271,Marathahalli,1281,4,1,6669.16,2
+272,BTM Layout,1287,2,2,9286.36,2
+273,BTM Layout,1821,3,3,12335.83,5
+274,Koramangala,1031,2,3,6752.82,5
+275,Jayanagar,1285,1,3,11182.31,2
+276,BTM Layout,1199,5,0,9014.23,2
+277,Electronic City,994,1,2,5777.6,3
+278,Whitefield,1760,2,1,8287.56,5
+279,HSR Layout,1392,1,3,11146.57,5
+280,Jayanagar,1349,1,1,8595.34,4
+281,HSR Layout,957,1,1,5416.77,1
+282,BTM Layout,1320,4,1,6636.84,2
+283,Jayanagar,1461,1,1,9147.7,3
+284,Whitefield,905,5,3,5905.52,4
+285,Whitefield,1044,3,2,6173.96,3
+286,BTM Layout,1799,1,2,13417.57,4
+287,BTM Layout,978,3,0,6647.28,1
+288,Jayanagar,1676,3,2,10428.74,4
+289,BTM Layout,1497,4,0,8689.36,3
+290,Electronic City,1437,2,2,4821.03,5
+291,Marathahalli,1666,5,0,7767.31,2
+292,Jayanagar,1656,3,2,12067.89,5
+293,Whitefield,1222,3,3,8324.08,5
+294,Marathahalli,1604,5,1,10067.66,4
+295,Jayanagar,1721,1,1,14845.35,5
+296,Marathahalli,1011,2,3,6316.91,2
+297,Electronic City,700,4,2,3849.5,2
+298,Marathahalli,1549,2,0,6410.6,3
+299,Marathahalli,1150,3,1,5277.15,2
+300,Indira Nagar,1320,3,2,7849.82,5
+301,Whitefield,1048,2,2,7094.04,1
+302,Marathahalli,1840,4,0,8695.22,4
+303,BTM Layout,808,2,1,5741.78,2
+304,Indira Nagar,929,4,3,6927.02,2
+305,Koramangala,1412,4,3,11630.38,4
+306,Electronic City,1619,3,1,8972.66,3
+307,Koramangala,1531,4,2,9043.8,3
+308,Koramangala,1010,4,0,8219.09,3
+309,BTM Layout,1632,5,0,10245.68,2
+310,HSR Layout,971,5,1,4710.73,2
+311,BTM Layout,1142,3,3,5124.83,1
+312,Electronic City,1201,1,0,4995.4,5
+313,Marathahalli,1566,1,0,8525.52,3
+314,Electronic City,1836,3,2,8658.96,5
+315,Electronic City,967,4,1,4080.37,1
+316,Jayanagar,1712,4,1,13668.44,3
+317,Whitefield,1833,5,2,10469.15,4
+318,Indira Nagar,1211,3,1,7682.11,3
+319,Electronic City,1483,5,2,6522.42,2
+320,Indira Nagar,762,4,3,4639.05,1
+321,Koramangala,1509,1,0,15563.93,2
+322,Koramangala,1409,4,1,12353.06,2
+323,Jayanagar,1425,3,0,12026.29,4
+324,HSR Layout,1864,2,3,12289.25,4
+325,Electronic City,1458,3,3,5899.13,2
+326,Jayanagar,1242,1,3,7974.26,5
+327,HSR Layout,1073,5,3,7119.28,4
+328,Indira Nagar,1217,1,3,7252.93,4
+329,Indira Nagar,926,3,1,6526.38,3
+330,Marathahalli,783,1,3,4632.27,2
+331,BTM Layout,1928,3,2,11576.12,5
+332,Whitefield,1212,1,3,8201.22,4
+333,Electronic City,999,1,1,3798.54,3
+334,Koramangala,1560,1,1,13416.38,5
+335,Koramangala,1594,1,2,10661.27,1
+336,Electronic City,1444,4,2,7233.13,1
+337,HSR Layout,1099,4,2,9084.63,3
+338,HSR Layout,1696,2,2,8974.07,4
+339,Marathahalli,1549,5,0,8418.14,3
+340,Koramangala,993,3,2,7739.68,4
+341,Koramangala,1110,2,3,9800.07,5
+342,BTM Layout,703,3,2,4707.32,1
+343,Koramangala,707,1,1,4659.32,1
+344,Electronic City,1503,1,0,7552.0,5
+345,Marathahalli,1354,2,1,5753.78,4
+346,Jayanagar,1735,2,3,9430.38,5
+347,Indira Nagar,1079,2,2,7054.73,3
+348,Whitefield,1872,5,3,12202.7,5
+349,BTM Layout,1234,5,0,9368.83,3
+350,BTM Layout,1089,4,3,6767.67,5
+351,Indira Nagar,1127,3,2,7767.7,1
+352,BTM Layout,922,5,0,6428.59,3
+353,Marathahalli,1432,4,0,7897.71,2
+354,Jayanagar,1233,1,0,10133.71,1
+355,BTM Layout,1184,4,2,8136.45,1
+356,HSR Layout,1944,1,1,14477.21,5
+357,BTM Layout,897,3,1,6637.42,3
+358,Whitefield,1260,4,3,5545.16,4
+359,HSR Layout,1380,2,0,6958.36,4
+360,BTM Layout,1225,5,0,8204.9,4
+361,HSR Layout,611,3,3,4661.77,1
+362,Marathahalli,1023,5,1,6168.4,1
+363,Jayanagar,713,4,3,4229.01,1
+364,Marathahalli,1566,4,3,8231.28,3
+365,Indira Nagar,1635,4,2,11099.74,3
+366,Electronic City,1278,5,3,6829.62,2
+367,Koramangala,1193,4,1,12111.12,1
+368,Marathahalli,1384,5,1,7724.67,4
+369,Electronic City,1598,5,3,7699.22,3
+370,Marathahalli,718,5,1,4062.16,2
+371,Koramangala,1455,5,1,11724.66,4
+372,Jayanagar,623,2,3,4022.03,1
+373,BTM Layout,1785,2,1,11846.16,3
+374,BTM Layout,1334,3,0,7201.79,5
+375,BTM Layout,1675,5,3,9051.48,4
+376,BTM Layout,1701,1,2,10986.46,5
+377,Marathahalli,689,3,0,2605.02,1
+378,Jayanagar,1101,2,2,6417.5,1
+379,Indira Nagar,904,4,0,6588.01,2
+380,BTM Layout,934,4,1,4257.58,2
+381,Indira Nagar,1174,2,1,6779.89,2
+382,Marathahalli,1099,4,3,5618.93,1
+383,BTM Layout,1232,4,0,5339.17,2
+384,Koramangala,970,2,1,8306.84,3
+385,Jayanagar,803,1,2,3975.69,1
+386,HSR Layout,1497,4,0,12257.1,5
+387,BTM Layout,1275,2,1,8981.9,5
+388,Whitefield,1269,1,2,8095.54,4
+389,HSR Layout,1656,5,1,10890.25,4
+390,HSR Layout,805,4,2,5475.21,2
+391,Electronic City,1349,2,3,5986.94,4
+392,Jayanagar,1660,2,0,14650.97,3
+393,BTM Layout,1077,1,3,8079.68,3
+394,BTM Layout,1508,5,3,10697.18,1
+395,Marathahalli,1258,2,0,6496.52,1
+396,Marathahalli,1838,3,0,10802.96,4
+397,Jayanagar,926,2,1,5240.73,1
+398,Electronic City,1145,4,1,5842.14,1
+399,Electronic City,711,5,3,2504.78,1
+400,HSR Layout,1218,2,2,6121.78,2
+401,Indira Nagar,1941,5,3,11432.14,5
+402,Whitefield,1307,5,1,8226.31,2
+403,Jayanagar,1727,4,0,12384.59,3
+404,Electronic City,1715,1,0,5855.59,4
+405,BTM Layout,1222,4,3,9254.05,5
+406,Koramangala,1868,5,3,17266.45,4
+407,Electronic City,1413,1,1,7951.29,4
+408,Jayanagar,1084,1,3,9796.94,2
+409,BTM Layout,722,1,2,4115.08,2
+410,HSR Layout,989,4,3,6030.49,3
+411,Jayanagar,1367,4,3,11446.17,2
+412,Indira Nagar,1544,4,1,15047.55,2
+413,Jayanagar,1091,5,2,6769.44,5
+414,Whitefield,1361,4,3,6784.39,4
+415,Whitefield,1092,1,3,5391.75,5
+416,Jayanagar,1125,4,3,6864.93,1
+417,Marathahalli,872,1,2,5314.92,2
+418,Electronic City,1245,3,3,4670.27,5
+419,Marathahalli,836,4,2,3904.53,2
+420,HSR Layout,950,1,1,6720.43,1
+421,Electronic City,1024,5,3,5394.92,2
+422,Koramangala,1345,5,1,9414.15,2
+423,Jayanagar,1338,1,2,6588.81,5
+424,Whitefield,1795,5,2,10972.06,3
+425,HSR Layout,1563,1,2,7869.36,5
+426,Koramangala,1179,3,2,9665.5,3
+427,Indira Nagar,819,4,0,4838.49,3
+428,HSR Layout,1153,3,1,7874.08,2
+429,Marathahalli,855,5,0,3972.21,3
+430,Whitefield,1195,2,3,7226.03,5
+431,Jayanagar,891,4,1,4562.03,3
+432,Jayanagar,1240,3,3,9343.65,4
+433,Electronic City,1224,2,3,5670.84,2
+434,Jayanagar,1914,5,1,13747.27,5
+435,Indira Nagar,1592,5,0,15199.41,3
+436,Electronic City,1166,4,1,4721.91,1
+437,Whitefield,1914,2,1,12709.76,5
+438,Koramangala,1434,4,1,12955.08,4
+439,Koramangala,1786,5,3,15866.01,3
+440,Electronic City,1565,3,1,6241.36,3
+441,Indira Nagar,1207,3,3,6498.44,3
+442,BTM Layout,1830,5,0,12418.95,4
+443,Electronic City,1539,2,0,5032.26,5
+444,Marathahalli,964,2,2,5175.94,4
+445,Indira Nagar,1276,4,3,9466.0,1
+446,Indira Nagar,1207,4,3,9011.74,4
+447,Marathahalli,1556,2,0,8602.03,4
+448,Koramangala,1983,4,1,17118.18,5
+449,Jayanagar,1696,4,2,13409.83,5
+450,Jayanagar,1524,5,2,9364.85,1
+451,Indira Nagar,1174,3,0,9756.07,4
+452,HSR Layout,1032,3,3,5930.32,2
+453,Jayanagar,1486,5,3,11176.72,5
+454,Indira Nagar,1679,4,0,13361.66,3
+455,Whitefield,823,5,2,3469.95,1
+456,Electronic City,1500,1,0,6975.1,4
+457,Electronic City,710,4,1,3240.73,2
+458,Whitefield,1315,1,0,6732.32,4
+459,Koramangala,986,4,3,6722.86,3
+460,Jayanagar,979,5,3,5736.62,2
+461,Marathahalli,1608,5,1,6416.77,5
+462,BTM Layout,1261,1,3,9820.42,2
+463,HSR Layout,1562,3,3,10372.93,3
+464,Whitefield,1116,4,3,7040.06,3
+465,Koramangala,1324,5,0,9994.85,2
+466,BTM Layout,885,5,3,4258.84,2
+467,Jayanagar,922,2,2,5389.39,2
+468,BTM Layout,1439,1,0,7618.82,3
+469,BTM Layout,905,5,1,4861.01,2
+470,Jayanagar,1037,1,1,9257.15,5
+471,Electronic City,1075,2,3,4367.31,4
+472,HSR Layout,1172,3,2,9697.2,1
+473,Marathahalli,1521,1,1,7155.5,1
+474,Indira Nagar,1598,1,3,9212.41,1
+475,Marathahalli,1091,1,3,4166.48,5
+476,Marathahalli,1121,1,1,6334.77,2
+477,Marathahalli,1516,3,2,7776.05,1
+478,Marathahalli,1303,2,3,5260.65,1
+479,Jayanagar,1345,2,0,9156.42,1
+480,Indira Nagar,942,1,2,7710.86,4
+481,Indira Nagar,1252,5,0,8381.74,1
+482,Koramangala,698,3,1,4238.94,1
+483,Koramangala,1186,3,1,7954.22,1
+484,Whitefield,1476,5,1,9734.09,5
+485,BTM Layout,1704,5,1,9136.99,5
+486,Indira Nagar,1439,4,1,12138.73,5
+487,Indira Nagar,1146,1,3,9358.01,2
+488,Jayanagar,1297,4,2,8564.33,2
+489,BTM Layout,1939,1,2,13340.11,5
+490,Marathahalli,1214,3,3,5206.25,1
+491,Jayanagar,1174,2,0,9900.63,5
+492,Whitefield,640,1,0,4027.87,1
+493,BTM Layout,1413,5,3,7517.6,5
+494,Electronic City,1128,5,2,5470.04,2
+495,Marathahalli,1527,1,0,6361.57,4
+496,Jayanagar,794,2,1,4512.78,2
+497,BTM Layout,1110,3,1,5076.79,5
+498,Indira Nagar,959,1,2,5572.61,4
+499,Marathahalli,1039,3,0,5630.65,2
+500,Jayanagar,1367,5,0,8391.04,5
+501,Marathahalli,1817,2,2,10599.25,5
+502,BTM Layout,966,3,1,4462.16,4
+503,Indira Nagar,1301,3,0,11525.38,5
+504,Marathahalli,1050,4,1,6426.44,4
+505,Electronic City,1768,5,3,9884.92,4
+506,Marathahalli,1310,2,0,4916.76,3
+507,BTM Layout,1733,5,3,11981.45,3
+508,Electronic City,1444,2,0,7398.2,1
+509,Marathahalli,1807,3,1,7726.98,4
+510,Whitefield,1236,3,3,7954.28,4
+511,Jayanagar,1981,1,3,12708.41,5
+512,Jayanagar,795,1,1,4438.95,2
+513,Electronic City,1226,4,2,5440.84,4
+514,Electronic City,1396,4,2,4877.48,3
+515,BTM Layout,962,1,0,4257.68,1
+516,Koramangala,1192,2,1,8937.49,3
+517,HSR Layout,1658,3,0,11922.48,5
+518,Jayanagar,943,4,0,5990.62,3
+519,Whitefield,1406,3,3,5550.26,3
+520,Whitefield,907,1,2,5240.29,1
+521,Marathahalli,1062,2,2,6856.47,5
+522,Jayanagar,1439,4,3,7849.55,4
+523,Jayanagar,1163,4,3,6284.26,2
+524,Indira Nagar,1016,2,2,7106.14,2
+525,Whitefield,1680,1,3,8548.99,3
+526,HSR Layout,1669,4,2,13604.5,2
+527,BTM Layout,1521,1,0,9801.43,4
+528,Whitefield,1359,3,0,5959.27,2
+529,Jayanagar,1796,3,3,14122.38,3
+530,Marathahalli,1064,1,2,5255.1,1
+531,Whitefield,1343,5,3,6291.08,4
+532,Electronic City,1631,2,2,7171.02,3
+533,Whitefield,1414,2,2,9576.48,4
+534,Marathahalli,1640,1,0,6781.43,5
+535,Jayanagar,754,4,3,5953.18,1
+536,Marathahalli,1180,2,2,6361.72,3
+537,Marathahalli,1714,1,0,8573.93,4
+538,HSR Layout,1293,2,2,9630.25,2
+539,Marathahalli,1586,4,1,8428.72,5
+540,Jayanagar,1154,1,1,6161.74,4
+541,Whitefield,1100,3,2,5332.85,5
+542,Koramangala,1110,4,1,7918.46,5
+543,Koramangala,1484,5,0,10020.75,2
+544,Marathahalli,1560,2,3,5838.94,5
+545,Jayanagar,1139,2,3,7695.75,2
+546,Koramangala,1416,1,1,14436.14,5
+547,Koramangala,814,3,0,5467.76,3
+548,Jayanagar,1451,5,1,8816.51,2
+549,Electronic City,1186,4,0,6432.54,3
+550,Whitefield,1562,2,2,8347.07,4
+551,Marathahalli,1606,1,0,6848.24,5
+552,Marathahalli,1497,1,0,7094.61,1
+553,Jayanagar,936,5,3,4999.37,4
+554,Electronic City,628,2,2,3588.41,1
+555,Koramangala,1903,4,1,19123.86,5
+556,Marathahalli,1046,1,1,4897.67,4
+557,BTM Layout,1583,2,0,11891.2,3
+558,Koramangala,1365,3,1,8895.03,5
+559,BTM Layout,1466,4,2,8050.27,2
+560,Indira Nagar,825,1,0,4730.21,2
+561,Whitefield,1027,3,0,5244.92,5
+562,Jayanagar,1010,1,1,6152.26,3
+563,HSR Layout,1551,2,2,7351.29,5
+564,Indira Nagar,1430,4,3,10632.57,1
+565,HSR Layout,1753,3,0,14701.74,5
+566,Marathahalli,1406,5,3,6232.84,4
+567,Koramangala,868,1,1,8189.72,3
+568,Indira Nagar,1803,1,3,13483.09,5
+569,Indira Nagar,1484,5,2,13120.16,2
+570,Indira Nagar,988,3,3,8041.46,4
+571,BTM Layout,1695,4,0,9931.64,2
+572,Jayanagar,1236,1,0,10094.77,3
+573,Whitefield,869,1,1,4455.02,1
+574,Whitefield,1566,2,1,7510.61,5
+575,Indira Nagar,1745,2,2,13455.12,5
+576,Koramangala,1555,3,0,10660.89,1
+577,Marathahalli,1410,1,2,6708.64,5
+578,Jayanagar,1222,3,2,6529.86,5
+579,Indira Nagar,914,3,1,7164.07,2
+580,Koramangala,1235,2,2,12013.19,2
+581,Whitefield,1058,1,2,6326.99,1
+582,Jayanagar,1627,2,1,9328.9,2
+583,HSR Layout,959,5,2,7021.71,3
+584,Koramangala,1217,1,2,9933.08,5
+585,BTM Layout,1567,4,2,8378.95,3
+586,Koramangala,1674,3,3,12624.56,4
+587,Whitefield,858,2,1,3317.12,1
+588,Jayanagar,1214,2,2,7637.45,4
+589,Electronic City,1661,4,1,8546.31,4
+590,BTM Layout,994,2,0,4791.65,1
+591,Electronic City,1625,3,1,7679.25,5
+592,HSR Layout,702,2,0,5359.08,2
+593,HSR Layout,1744,3,1,10815.3,5
+594,Marathahalli,1310,4,3,7978.23,5
+595,BTM Layout,1114,3,3,5947.3,5
+596,Indira Nagar,1477,1,1,8997.6,4
+597,HSR Layout,1418,5,1,8881.87,4
+598,BTM Layout,1404,5,0,10681.96,1
+599,Whitefield,1443,4,0,8132.13,4
+600,Whitefield,1417,5,1,8924.05,1
+601,Marathahalli,1143,3,2,7240.62,2
+602,Whitefield,1458,3,1,7299.73,4
+603,Indira Nagar,1108,2,2,6044.38,2
+604,Whitefield,1716,5,0,7212.19,3
+605,BTM Layout,1350,1,3,8149.29,2
+606,Whitefield,1115,4,0,4599.82,3
+607,Koramangala,1487,4,3,11289.25,3
+608,Marathahalli,1073,1,3,5628.59,5
+609,Electronic City,1677,1,1,6819.76,4
+610,Indira Nagar,1716,2,2,9199.95,4
+611,Jayanagar,879,1,1,7832.78,1
+612,BTM Layout,1166,2,3,7175.95,2
+613,Koramangala,1376,1,1,14080.09,5
+614,Electronic City,1750,5,0,9694.48,3
+615,Electronic City,1531,5,3,8821.59,4
+616,HSR Layout,852,4,0,5793.36,2
+617,Marathahalli,739,5,2,4697.59,1
+618,Indira Nagar,1373,1,3,11508.38,4
+619,BTM Layout,1517,3,0,9752.13,3
+620,Marathahalli,1070,1,0,4056.18,5
+621,Whitefield,1327,3,2,6231.27,4
+622,HSR Layout,1753,5,3,12126.76,3
+623,Indira Nagar,1451,4,0,7703.32,2
+624,Electronic City,1525,4,1,5031.01,1
+625,Jayanagar,1411,1,3,9736.1,2
+626,Electronic City,1453,4,0,8201.09,4
+627,Marathahalli,1763,4,0,11222.53,4
+628,Whitefield,1062,2,0,7293.39,5
+629,HSR Layout,941,1,0,4348.68,3
+630,Indira Nagar,692,3,1,4123.78,1
+631,Electronic City,812,4,0,4039.64,3
+632,HSR Layout,1728,2,2,14358.2,5
+633,Marathahalli,999,3,3,4428.94,3
+634,BTM Layout,1285,1,1,9926.08,4
+635,Koramangala,1503,1,3,11790.15,5
+636,HSR Layout,1617,4,1,8327.36,2
+637,Koramangala,1364,2,2,13663.68,4
+638,Jayanagar,1399,5,1,8575.48,1
+639,Whitefield,992,4,2,5553.18,2
+640,Whitefield,1142,2,2,6162.26,4
+641,BTM Layout,1081,1,3,4862.74,1
+642,BTM Layout,1708,4,3,11424.1,5
+643,Whitefield,1085,5,3,6522.29,2
+644,Electronic City,1517,1,2,6681.47,4
+645,Indira Nagar,1156,2,3,8046.71,2
+646,Indira Nagar,1541,5,1,12553.72,3
+647,Marathahalli,1700,3,2,8547.66,3
+648,Jayanagar,1615,1,0,10749.84,5
+649,HSR Layout,1726,3,1,11472.07,5
+650,Whitefield,1881,1,3,10273.97,5
+651,BTM Layout,1353,3,0,5849.3,1
+652,BTM Layout,980,5,0,4361.32,4
+653,BTM Layout,1332,5,2,7763.9,3
+654,Koramangala,1291,5,0,10306.03,2
+655,Indira Nagar,1722,1,2,10701.04,5
+656,Jayanagar,1707,4,1,12711.68,5
+657,BTM Layout,1233,5,3,9085.65,4
+658,Koramangala,981,1,2,8877.57,3
+659,Indira Nagar,797,4,0,6012.32,1
+660,BTM Layout,1662,2,1,12275.84,3
+661,Whitefield,1199,5,2,4802.24,3
+662,HSR Layout,1919,2,3,14900.13,5
+663,Electronic City,1304,2,1,5008.94,1
+664,Indira Nagar,1099,3,2,7490.73,1
+665,HSR Layout,1477,3,2,8680.23,5
+666,Jayanagar,1194,3,2,8160.14,2
+667,Koramangala,1229,2,1,7353.18,1
+668,Whitefield,1020,2,1,4094.38,4
+669,HSR Layout,1684,5,3,10519.23,2
+670,HSR Layout,1091,5,2,5445.15,3
+671,HSR Layout,1558,3,0,12660.26,1
+672,Indira Nagar,1219,3,1,11842.82,3
+673,Jayanagar,1361,1,1,9392.84,3
+674,Marathahalli,1078,3,1,4861.33,5
+675,Indira Nagar,1393,3,0,12678.68,1
+676,Indira Nagar,1260,1,1,10830.11,2
+677,HSR Layout,1027,5,3,7251.14,1
+678,Indira Nagar,911,2,3,5646.24,3
+679,Whitefield,1404,2,3,7968.24,1
+680,Electronic City,688,5,1,3476.94,1
+681,Marathahalli,1339,2,2,5562.67,3
+682,Electronic City,1509,5,3,7159.17,3
+683,HSR Layout,1072,3,3,8866.66,5
+684,Whitefield,1596,5,2,9117.28,5
+685,Indira Nagar,1855,1,1,15417.69,4
+686,Indira Nagar,828,4,0,4882.86,3
+687,Jayanagar,1481,5,1,12216.15,2
+688,Jayanagar,1140,5,0,7583.11,5
+689,BTM Layout,1657,2,1,7799.4,3
+690,Indira Nagar,772,5,2,7347.43,2
+691,BTM Layout,938,2,2,4752.59,4
+692,Indira Nagar,1041,4,2,6104.01,2
+693,Marathahalli,1402,1,2,7089.17,2
+694,BTM Layout,1433,1,2,9973.39,3
+695,Indira Nagar,637,3,3,4436.49,1
+696,Whitefield,1952,5,0,8263.7,5
+697,Electronic City,1409,2,1,6214.49,1
+698,Koramangala,1419,4,2,11205.14,1
+699,Jayanagar,1970,4,0,17221.62,5
+700,Marathahalli,1162,2,2,5481.46,1
+701,Marathahalli,1331,1,2,5181.83,4
+702,Marathahalli,1020,5,2,4282.78,2
+703,Electronic City,1620,3,3,5797.69,2
+704,Electronic City,1279,4,1,5657.96,3
+705,HSR Layout,1385,5,2,8250.37,5
+706,Marathahalli,1401,2,0,6180.17,1
+707,HSR Layout,1101,4,0,6612.45,2
+708,HSR Layout,1138,2,1,9138.75,4
+709,Koramangala,1349,2,3,11173.98,3
+710,Electronic City,1190,5,3,6011.93,2
+711,Jayanagar,1592,4,2,14432.14,3
+712,BTM Layout,842,3,1,4004.2,1
+713,Koramangala,1585,1,2,15149.98,2
+714,HSR Layout,1745,2,2,9761.98,3
+715,Whitefield,1778,4,2,12307.59,5
+716,Koramangala,1555,5,1,10096.01,2
+717,Koramangala,1847,1,0,16630.87,4
+718,Electronic City,1205,4,0,5229.05,1
+719,HSR Layout,1490,4,0,11887.51,2
+720,BTM Layout,948,2,2,4985.26,4
+721,BTM Layout,1536,3,0,7510.84,1
+722,Jayanagar,1111,5,2,8620.15,1
+723,BTM Layout,1351,4,2,7767.18,1
+724,HSR Layout,1002,3,1,5506.99,2
+725,HSR Layout,708,3,1,3253.58,1
+726,Indira Nagar,1031,4,0,9543.08,3
+727,Electronic City,1537,2,0,7686.5,4
+728,BTM Layout,877,1,1,5976.78,2
+729,Jayanagar,1190,2,1,7940.53,4
+730,HSR Layout,1547,5,0,9133.26,4
+731,Marathahalli,1569,5,0,6318.89,4
+732,BTM Layout,1195,3,1,8113.1,2
+733,Koramangala,1366,1,1,10703.75,3
+734,Koramangala,838,2,1,5594.9,2
+735,Marathahalli,701,1,0,3521.07,2
+736,Jayanagar,1744,3,1,13409.83,4
+737,Indira Nagar,1545,3,1,8880.07,4
+738,BTM Layout,1593,1,1,7111.64,1
+739,Jayanagar,1572,2,2,8895.8,2
+740,Whitefield,1696,4,3,11582.1,5
+741,Whitefield,984,5,0,4737.32,1
+742,BTM Layout,1217,2,1,6230.46,5
+743,Marathahalli,1498,3,0,5387.88,2
+744,Electronic City,1236,4,0,5941.13,1
+745,Marathahalli,767,5,3,3345.02,1
+746,Jayanagar,1457,1,3,7469.09,5
+747,Marathahalli,1591,1,2,9222.17,1
+748,Indira Nagar,1140,1,3,7302.55,1
+749,Koramangala,1842,4,2,17056.3,4
+750,Whitefield,1417,2,1,5500.83,5
+751,Electronic City,1019,1,2,4459.57,1
+752,Marathahalli,1573,4,1,5649.7,2
+753,Jayanagar,1454,2,0,12669.79,1
+754,Marathahalli,1325,1,1,8491.82,1
+755,Electronic City,1204,3,2,6265.83,5
+756,Marathahalli,1551,3,1,9220.84,5
+757,HSR Layout,736,5,1,4757.02,2
+758,Indira Nagar,1080,2,3,10481.03,3
+759,Indira Nagar,1813,4,1,16184.46,4
+760,BTM Layout,952,2,1,6173.49,2
+761,Whitefield,970,5,2,6784.83,3
+762,HSR Layout,1381,4,0,11217.16,5
+763,Whitefield,1346,5,0,6559.95,5
+764,HSR Layout,1408,2,2,10687.48,5
+765,Koramangala,775,1,2,6709.88,2
+766,Marathahalli,1491,3,2,8551.24,4
+767,BTM Layout,1683,5,3,9171.13,3
+768,BTM Layout,1087,5,2,7515.84,2
+769,BTM Layout,1584,5,1,11285.9,1
+770,Whitefield,1290,3,1,5779.02,2
+771,Koramangala,965,5,3,6357.03,4
+772,Electronic City,1785,5,2,6835.9,3
+773,Marathahalli,1616,1,0,5854.64,5
+774,Koramangala,1412,3,1,9886.68,5
+775,BTM Layout,1710,4,3,12919.77,4
+776,Koramangala,1417,2,3,14378.26,3
+777,Whitefield,1431,5,2,10096.32,4
+778,Marathahalli,1490,2,3,8690.06,2
+779,Indira Nagar,869,1,2,7517.83,2
+780,BTM Layout,1045,4,1,5240.64,3
+781,Whitefield,1840,1,2,8534.77,5
+782,Indira Nagar,1400,3,2,11928.3,2
+783,HSR Layout,1680,4,1,12229.39,4
+784,Indira Nagar,1326,3,1,8672.48,4
+785,Marathahalli,1552,2,3,7902.95,2
+786,Jayanagar,919,5,0,6824.42,2
+787,Marathahalli,1569,3,3,9617.91,4
+788,Indira Nagar,1355,2,1,9704.68,5
+789,Electronic City,694,1,0,2524.79,1
+790,BTM Layout,1057,4,0,4602.65,2
+791,Koramangala,1470,1,2,14646.74,3
+792,BTM Layout,1206,3,1,5323.58,5
+793,Marathahalli,760,4,3,2845.0,1
+794,BTM Layout,1825,2,0,9793.75,5
+795,Electronic City,1293,1,2,7315.23,4
+796,BTM Layout,1321,2,1,6447.18,5
+797,HSR Layout,956,1,3,8048.52,4
+798,BTM Layout,1813,4,3,8205.85,5
+799,Marathahalli,922,1,3,4538.09,2
+800,Indira Nagar,1457,2,3,11936.08,4
+801,BTM Layout,961,5,3,5106.3,2
+802,Whitefield,685,5,1,4481.72,1
+803,HSR Layout,1598,5,1,8148.25,2
+804,HSR Layout,954,2,0,6365.71,4
+805,Koramangala,1669,5,0,11062.91,2
+806,Marathahalli,1755,5,0,7953.56,3
+807,Electronic City,1597,2,0,8712.59,1
+808,Indira Nagar,1638,5,1,11712.21,5
+809,Electronic City,1649,1,1,7202.26,2
+810,Marathahalli,896,5,1,5595.0,2
+811,Whitefield,1206,3,2,7235.41,1
+812,Indira Nagar,1601,5,0,14997.07,2
+813,Jayanagar,738,4,0,6698.82,2
+814,Koramangala,1340,2,2,12623.17,5
+815,Marathahalli,889,3,1,4115.73,3
+816,HSR Layout,1567,4,2,8814.25,1
+817,Marathahalli,1755,5,0,7533.67,3
+818,Marathahalli,1024,2,3,6045.59,5
+819,BTM Layout,950,3,2,6223.49,2
+820,Koramangala,1325,3,3,13752.12,1
+821,Koramangala,717,3,0,5085.72,2
+822,Jayanagar,1135,3,0,5966.98,5
+823,Indira Nagar,1154,2,3,10354.59,3
+824,Electronic City,1023,3,1,4092.94,1
+825,Whitefield,1776,1,3,10651.47,3
+826,Koramangala,1011,5,1,10492.05,5
+827,Marathahalli,1383,3,3,7023.98,3
+828,Whitefield,1078,1,1,6228.27,2
+829,Jayanagar,1583,1,2,9700.45,5
+830,Koramangala,982,4,2,9280.54,4
+831,Indira Nagar,1292,3,0,11687.54,3
+832,HSR Layout,1427,5,0,9290.85,5
+833,Marathahalli,944,5,0,4857.58,2
+834,Electronic City,1569,2,2,8769.82,2
+835,Indira Nagar,1442,2,1,12802.64,3
+836,Jayanagar,1106,2,2,7353.02,3
+837,Whitefield,1685,5,2,8592.21,4
+838,Koramangala,920,4,1,7443.99,4
+839,Indira Nagar,1182,5,0,7537.22,4
+840,BTM Layout,830,2,3,4854.15,3
+841,Indira Nagar,1354,4,0,10060.85,1
+842,Electronic City,880,2,0,3234.63,1
+843,BTM Layout,1524,1,2,9843.38,2
+844,Koramangala,807,4,3,6979.25,3
+845,Jayanagar,1590,1,0,13491.41,5
+846,Koramangala,620,1,0,5939.17,1
+847,BTM Layout,1075,1,3,7438.1,3
+848,Electronic City,1938,5,3,7372.6,5
+849,BTM Layout,1305,4,0,7351.97,4
+850,HSR Layout,1271,4,3,6713.09,4
+851,Whitefield,1118,3,1,7918.4,3
+852,Marathahalli,1188,1,1,7481.53,2
+853,BTM Layout,1716,1,1,10610.88,4
+854,Marathahalli,1784,4,3,10996.58,5
+855,Koramangala,811,4,2,5761.48,2
+856,Koramangala,1044,2,3,7304.66,4
+857,Marathahalli,1031,3,2,5591.18,1
+858,Marathahalli,1304,4,1,7763.36,1
+859,Marathahalli,1151,4,1,6624.8,1
+860,Jayanagar,1221,1,0,9794.87,4
+861,Marathahalli,1582,3,2,7757.71,2
+862,Marathahalli,1788,2,3,10962.91,5
+863,HSR Layout,1322,5,1,9275.89,1
+864,Electronic City,1571,5,2,6999.85,1
+865,HSR Layout,1041,5,3,6195.2,2
+866,Koramangala,1072,4,3,9964.62,5
+867,BTM Layout,1100,5,1,5281.98,1
+868,HSR Layout,1398,4,0,10223.75,5
+869,Jayanagar,778,1,0,5894.65,1
+870,Whitefield,1501,3,0,6286.83,1
+871,Whitefield,1229,3,2,5826.94,2
+872,Marathahalli,1610,4,1,8144.8,4
+873,Jayanagar,1782,4,1,15621.7,4
+874,Koramangala,1900,1,0,14070.31,4
+875,HSR Layout,836,3,2,4057.69,3
+876,HSR Layout,1293,2,3,7894.97,1
+877,HSR Layout,1168,4,3,9240.67,5
+878,Indira Nagar,1560,1,0,11566.12,3
+879,Electronic City,1314,2,2,5694.44,3
+880,Jayanagar,1120,3,1,9890.04,5
+881,Koramangala,1637,2,1,11502.96,2
+882,BTM Layout,1856,5,0,13799.89,4
+883,Jayanagar,1137,4,0,9044.56,4
+884,Electronic City,982,2,0,3182.48,4
+885,HSR Layout,1954,4,2,10013.79,5
+886,HSR Layout,1189,5,2,7117.04,4
+887,Marathahalli,1490,5,2,5849.7,3
+888,Electronic City,1187,5,3,5220.44,3
+889,Indira Nagar,838,3,3,4698.6,2
+890,Jayanagar,1377,3,3,12032.84,2
+891,HSR Layout,1445,1,3,10730.27,4
+892,Whitefield,1045,5,1,6660.28,4
+893,BTM Layout,1118,3,2,5680.97,1
+894,Whitefield,786,5,1,4593.49,1
+895,Jayanagar,1657,1,1,9098.67,4
+896,Electronic City,1505,3,0,6707.7,5
+897,Marathahalli,1812,5,0,7808.98,4
+898,HSR Layout,1098,3,2,5163.72,4
+899,Whitefield,1127,2,2,4924.97,4
+900,HSR Layout,992,5,2,6241.73,1
+901,Jayanagar,1327,5,0,11242.97,4
+902,Indira Nagar,1227,2,1,7811.2,5
+903,HSR Layout,1317,5,3,8111.43,1
+904,HSR Layout,1079,4,3,7601.88,1
+905,HSR Layout,723,2,1,3504.84,2
+906,Whitefield,1195,5,1,4949.3,5
+907,Marathahalli,1533,1,3,7382.09,3
+908,Indira Nagar,1720,5,1,12071.87,3
+909,Marathahalli,1221,1,2,7809.67,1
+910,Jayanagar,1003,1,1,5818.32,1
+911,Marathahalli,1319,3,1,8395.91,1
+912,Koramangala,1647,2,1,17066.1,2
+913,Indira Nagar,746,4,2,4558.03,2
+914,BTM Layout,1436,5,0,7926.54,4
+915,HSR Layout,1227,5,0,9622.55,2
+916,Whitefield,1603,1,1,10215.77,2
+917,HSR Layout,1414,3,1,6738.83,4
+918,Electronic City,1450,1,2,6897.36,3
+919,Jayanagar,1009,3,3,5956.92,5
+920,Electronic City,1377,5,0,7747.92,4
+921,Jayanagar,1221,5,1,9074.91,3
+922,Electronic City,1097,3,2,6269.39,3
+923,Koramangala,1932,1,2,11892.01,5
+924,BTM Layout,1332,1,0,10167.0,4
+925,Electronic City,1068,2,2,3650.42,3
+926,Koramangala,1258,4,2,9356.95,4
+927,Marathahalli,1480,4,3,5510.45,2
+928,HSR Layout,1757,1,3,9033.31,5
+929,HSR Layout,1313,3,0,6721.39,1
+930,Koramangala,1498,1,2,13078.95,4
+931,HSR Layout,1272,4,0,6153.27,2
+932,Jayanagar,819,4,3,6946.39,2
+933,Indira Nagar,1552,3,2,8792.08,1
+934,HSR Layout,1533,2,2,10698.78,1
+935,Jayanagar,1650,1,2,14871.83,3
+936,Whitefield,1470,2,3,10196.02,2
+937,Jayanagar,1675,1,2,11987.72,5
+938,Electronic City,1215,4,3,5783.21,3
+939,Electronic City,1244,3,0,6134.87,1
+940,Jayanagar,1737,2,2,15266.26,5
+941,Electronic City,811,5,1,2929.6,2
+942,HSR Layout,1127,4,2,5649.05,4
+943,Jayanagar,1398,4,1,7444.35,1
+944,HSR Layout,1336,4,3,11129.11,5
+945,Whitefield,1356,5,0,6273.24,1
+946,Koramangala,1122,1,1,8710.49,5
+947,HSR Layout,978,2,0,5477.89,2
+948,Electronic City,1630,1,2,8548.47,5
+949,Marathahalli,1538,3,3,7576.72,2
+950,HSR Layout,716,5,2,3495.97,1
+951,Indira Nagar,996,4,3,8553.92,1
+952,Indira Nagar,1279,2,3,8436.71,3
+953,Marathahalli,1575,5,0,9979.23,2
+954,HSR Layout,763,1,1,5514.27,1
+955,Koramangala,1720,4,2,17109.74,3
+956,HSR Layout,1246,2,0,7684.84,1
+957,BTM Layout,1397,5,0,10240.77,5
+958,Jayanagar,1060,1,3,9169.17,3
+959,Electronic City,1362,5,2,7792.16,2
+960,HSR Layout,1643,1,3,10497.73,4
+961,Koramangala,1215,3,0,8094.0,5
+962,BTM Layout,1551,2,3,8551.33,4
+963,Jayanagar,1515,1,0,8559.6,4
+964,BTM Layout,730,1,3,4905.73,1
+965,Marathahalli,1434,2,2,7679.43,5
+966,BTM Layout,1347,3,3,6978.15,4
+967,HSR Layout,1366,1,2,10357.22,5
+968,Jayanagar,794,4,0,4888.29,2
+969,Marathahalli,1838,3,0,7102.45,5
+970,Marathahalli,1783,2,0,10891.99,3
+971,HSR Layout,1583,1,3,12789.44,4
+972,Electronic City,1569,3,1,7029.08,4
+973,Electronic City,863,5,1,4638.12,2
+974,HSR Layout,770,5,3,5631.22,2
+975,Marathahalli,786,2,0,3982.24,2
+976,Koramangala,1488,4,1,14052.82,3
+977,HSR Layout,1108,2,3,8732.62,5
+978,Koramangala,1226,5,1,9751.63,5
+979,Whitefield,1439,1,1,8555.94,4
+980,HSR Layout,1549,4,0,7309.67,3
+981,Jayanagar,1117,2,2,8184.11,2
+982,HSR Layout,1108,5,3,8737.34,4
+983,Koramangala,885,4,0,7490.93,2
+984,Jayanagar,1236,3,3,6245.74,2
+985,Whitefield,1391,5,0,6094.75,2
+986,BTM Layout,1212,1,0,7006.41,2
+987,Electronic City,613,1,0,2422.04,1
+988,Koramangala,906,4,3,5352.57,1
+989,Electronic City,1120,4,2,4240.16,2
+990,Marathahalli,1122,1,2,6497.62,2
+991,Marathahalli,1579,2,2,6769.76,3
+992,Koramangala,1208,5,1,10548.34,4
+993,Marathahalli,1411,2,1,8266.48,3
+994,Koramangala,1331,4,3,7917.37,2
+995,BTM Layout,1721,5,0,10739.41,5
+996,Jayanagar,1356,1,3,12267.53,4
+997,Marathahalli,1707,2,3,10904.72,3
+998,Electronic City,1708,5,1,6296.27,4
+999,Koramangala,1743,1,0,9788.36,3
+1000,Indira Nagar,1629,5,0,14059.83,4
+1001,Indira Nagar,807,3,3,4383.72,3
+1002,Indira Nagar,1051,5,0,9980.73,2
+1003,HSR Layout,1358,1,0,9182.59,4
+1004,Whitefield,1581,4,1,9480.23,1
+1005,Jayanagar,1460,5,1,7904.01,4
+1006,Electronic City,1290,2,3,7313.44,4
+1007,Marathahalli,1403,1,0,8614.77,5
+1008,Whitefield,1550,1,2,8463.94,2
+1009,Whitefield,1677,5,3,7694.38,3
+1010,Marathahalli,1068,4,2,6671.05,4
+1011,Electronic City,1073,1,2,4744.42,3
+1012,Jayanagar,988,1,3,8606.65,1
+1013,Koramangala,1576,1,1,9745.53,5
+1014,Jayanagar,1057,4,3,6996.32,4
+1015,HSR Layout,1419,1,1,6654.83,5
+1016,Electronic City,1206,3,1,4754.38,4
+1017,Indira Nagar,1522,2,3,13751.83,5
+1018,Whitefield,1597,1,0,10327.4,3
+1019,Jayanagar,1716,2,0,11891.51,4
+1020,Whitefield,1286,2,1,5365.74,5
+1021,Whitefield,1595,5,1,6711.64,3
+1022,Electronic City,900,4,3,4003.42,1
+1023,Marathahalli,1460,3,0,9215.02,4
+1024,Whitefield,1622,4,0,11134.72,3
+1025,Koramangala,1132,1,1,8412.08,3
+1026,Whitefield,1014,4,2,6809.88,5
+1027,Electronic City,1597,4,1,6613.51,4
+1028,Marathahalli,1967,2,3,8855.32,5
+1029,Electronic City,1290,2,2,4383.85,4
+1030,Marathahalli,1377,2,3,7462.52,1
+1031,Koramangala,1468,4,1,10354.1,4
+1032,Whitefield,1221,1,0,6499.32,1
+1033,Jayanagar,945,3,2,7079.39,2
+1034,Koramangala,1461,2,2,8416.96,1
+1035,Koramangala,900,1,3,8281.96,3
+1036,HSR Layout,1745,2,2,8234.39,5
+1037,Jayanagar,1149,5,2,6848.84,3
+1038,Jayanagar,1024,4,1,5702.38,5
+1039,Electronic City,1030,1,1,4217.86,2
+1040,Indira Nagar,1351,2,1,12928.68,5
+1041,Electronic City,1036,5,2,4200.78,2
+1042,Electronic City,999,2,1,3952.29,1
+1043,Koramangala,1335,4,3,11591.95,4
+1044,Marathahalli,803,1,3,4661.92,1
+1045,BTM Layout,1141,4,2,6889.29,1
+1046,Whitefield,1162,1,0,4487.06,5
+1047,Whitefield,1611,1,1,11139.03,5
+1048,Marathahalli,1613,1,0,6650.13,4
+1049,Jayanagar,1384,1,2,10423.87,3
+1050,Jayanagar,1731,3,1,12961.46,4
+1051,Whitefield,757,3,3,3295.4,1
+1052,BTM Layout,1662,1,2,7338.71,5
+1053,Whitefield,996,3,3,5748.28,3
+1054,BTM Layout,1596,2,0,7206.21,5
+1055,Marathahalli,1297,4,0,7886.5,3
+1056,Indira Nagar,1497,2,2,11368.01,2
+1057,Koramangala,1686,4,2,16510.51,4
+1058,Electronic City,1752,1,2,7605.72,3
+1059,Jayanagar,1557,2,0,10989.45,1
+1060,Indira Nagar,1717,5,3,10148.37,4
+1061,Whitefield,1653,2,1,11777.79,4
+1062,Jayanagar,1726,2,3,14291.43,5
+1063,Jayanagar,1555,5,3,8208.83,5
+1064,Indira Nagar,1383,1,2,9509.39,2
+1065,Jayanagar,1281,4,2,8605.07,1
+1066,Whitefield,1132,1,3,5382.25,4
+1067,HSR Layout,802,5,2,4035.59,1
+1068,Jayanagar,1640,1,0,13028.63,5
+1069,Indira Nagar,1221,5,0,10624.03,4
+1070,Whitefield,1139,5,2,8057.29,4
+1071,BTM Layout,844,2,1,6204.06,3
+1072,HSR Layout,1637,2,0,13236.33,3
+1073,BTM Layout,919,4,3,5159.65,3
+1074,Whitefield,1731,2,2,9025.44,5
+1075,Koramangala,1211,5,2,9982.59,2
+1076,Marathahalli,1181,2,0,4430.4,4
+1077,Indira Nagar,1507,1,0,8625.72,4
+1078,Electronic City,1426,2,0,6296.31,5
+1079,Indira Nagar,1384,4,1,11712.83,5
+1080,Indira Nagar,1652,1,0,15658.55,3
+1081,HSR Layout,882,1,3,4108.54,1
+1082,Electronic City,985,2,1,5308.21,4
+1083,Marathahalli,1700,1,1,10401.24,4
+1084,Jayanagar,1474,4,3,9308.82,1
+1085,Electronic City,1681,2,3,9182.1,5
+1086,Jayanagar,615,3,1,5276.48,1
+1087,Indira Nagar,1394,2,2,12756.52,1
+1088,Marathahalli,833,3,1,3016.42,3
+1089,Electronic City,932,4,1,3149.99,2
+1090,Electronic City,1223,3,1,6616.56,4
+1091,Indira Nagar,1101,4,2,7781.79,4
+1092,Electronic City,1512,3,0,8510.14,4
+1093,Marathahalli,731,1,0,3523.05,2
+1094,Electronic City,1894,3,3,8415.39,5
+1095,BTM Layout,1222,3,2,6151.81,4
+1096,HSR Layout,1246,3,2,8118.7,3
+1097,Whitefield,1318,4,0,9367.44,2
+1098,Jayanagar,1185,4,3,7905.18,2
+1099,Marathahalli,1532,3,1,5526.27,1
+1100,Whitefield,1596,1,1,7332.18,3
+1101,Jayanagar,872,5,1,4613.25,1
+1102,Koramangala,1428,5,2,14758.27,2
+1103,Jayanagar,1455,3,3,11594.34,1
+1104,Electronic City,802,2,0,3456.76,2
+1105,Indira Nagar,1301,1,3,12094.27,4
+1106,Koramangala,1269,4,2,11750.34,4
+1107,Jayanagar,1150,4,3,10422.61,5
+1108,HSR Layout,1391,5,3,8591.7,3
+1109,Electronic City,1465,4,2,5840.28,4
+1110,Koramangala,1155,3,3,9535.66,4
+1111,Jayanagar,1176,1,0,8304.46,4
+1112,Whitefield,1556,4,0,8255.49,1
+1113,Whitefield,862,1,3,5353.96,1
+1114,Indira Nagar,1243,5,0,7187.05,5
+1115,Whitefield,1626,5,2,11360.71,5
+1116,Koramangala,1302,4,1,10485.37,5
+1117,Jayanagar,606,3,1,3669.56,1
+1118,Whitefield,848,5,3,3728.66,3
+1119,Jayanagar,1303,3,0,7035.07,2
+1120,Whitefield,1727,2,3,8864.57,4
+1121,Indira Nagar,1414,3,2,12428.23,5
+1122,Indira Nagar,1197,3,1,10968.63,4
+1123,Whitefield,1866,1,3,12782.43,5
+1124,Indira Nagar,1430,3,1,13036.38,2
+1125,Electronic City,1247,2,3,5502.03,3
+1126,Electronic City,689,1,2,3504.97,1
+1127,BTM Layout,1695,3,3,12112.93,5
+1128,Electronic City,1418,5,2,5221.56,2
+1129,HSR Layout,1025,2,3,5147.75,3
+1130,HSR Layout,989,3,3,5769.29,2
+1131,Marathahalli,1539,3,0,7450.15,4
+1132,Jayanagar,1745,5,1,12355.15,3
+1133,Koramangala,1809,1,2,11973.38,5
+1134,Whitefield,1297,3,2,7029.67,3
+1135,Marathahalli,1983,1,1,7323.38,5
+1136,Indira Nagar,894,4,3,6770.67,2
+1137,Electronic City,968,2,3,3889.29,3
+1138,Whitefield,1643,1,1,7422.06,3
+1139,Jayanagar,1989,2,3,12341.22,5
+1140,Jayanagar,1230,1,1,6878.12,2
+1141,Electronic City,1316,2,3,5203.69,1
+1142,Electronic City,1147,3,0,6237.39,3
+1143,Marathahalli,1171,2,2,7415.45,1
+1144,Koramangala,730,4,1,4764.29,2
+1145,Marathahalli,1251,5,0,5582.05,3
+1146,BTM Layout,1510,4,0,8046.72,2
+1147,Jayanagar,922,1,0,8027.97,4
+1148,Marathahalli,1343,4,1,6769.24,1
+1149,Electronic City,1462,3,1,5191.99,5
+1150,BTM Layout,1584,4,3,11241.14,4
+1151,Whitefield,808,5,3,5659.87,3
+1152,Jayanagar,1355,2,2,8939.75,5
+1153,Koramangala,1373,5,0,7952.2,2
+1154,BTM Layout,1382,3,1,7997.12,4
+1155,Marathahalli,877,2,2,4379.21,2
+1156,Indira Nagar,1696,5,0,16458.35,3
+1157,Whitefield,1537,2,3,10084.07,3
+1158,Koramangala,1561,1,1,9593.55,5
+1159,Marathahalli,1113,3,0,4254.39,1
+1160,Indira Nagar,1562,1,1,13463.36,2
+1161,Marathahalli,1101,5,1,4588.34,5
+1162,Marathahalli,1425,4,3,7653.05,1
+1163,BTM Layout,987,1,2,7317.33,1
+1164,Jayanagar,1454,2,3,13083.16,2
+1165,Jayanagar,990,1,3,6270.53,2
+1166,HSR Layout,1684,1,0,10202.41,5
+1167,BTM Layout,645,4,2,3807.91,1
+1168,Whitefield,1462,1,1,9668.16,4
+1169,Koramangala,874,1,3,8323.94,3
+1170,Whitefield,862,1,2,3710.71,1
+1171,Jayanagar,1275,3,3,6372.12,4
+1172,BTM Layout,1410,4,3,7713.77,5
+1173,HSR Layout,1686,1,1,9821.35,2
+1174,Whitefield,1554,3,0,10699.93,5
+1175,BTM Layout,791,4,0,4110.91,2
+1176,Whitefield,969,5,0,4876.32,1
+1177,BTM Layout,1218,3,3,6706.02,1
+1178,Whitefield,829,5,1,4993.28,2
+1179,Marathahalli,1172,4,0,7141.07,3
+1180,Jayanagar,1852,3,0,9185.17,5
+1181,Jayanagar,1602,4,2,12896.23,4
+1182,BTM Layout,1455,5,3,10424.69,5
+1183,Whitefield,1572,1,1,10089.5,4
+1184,Electronic City,1734,1,1,5758.03,3
+1185,HSR Layout,1179,1,3,9159.86,5
+1186,HSR Layout,1029,4,2,5142.49,1
+1187,Whitefield,1388,3,1,9742.81,5
+1188,Indira Nagar,1440,1,2,12396.11,1
+1189,Indira Nagar,1100,4,2,8606.29,4
+1190,HSR Layout,1170,3,1,6667.0,2
+1191,Marathahalli,1505,5,3,6745.16,1
+1192,Whitefield,1281,1,2,8915.2,2
+1193,Marathahalli,1310,4,0,4890.44,4
+1194,Marathahalli,1603,3,3,7088.92,4
+1195,Whitefield,867,5,2,5071.18,2
+1196,HSR Layout,1146,1,1,5479.56,1
+1197,HSR Layout,1180,1,0,6404.4,3
+1198,Electronic City,1173,5,2,6763.29,1
+1199,Marathahalli,1092,1,3,5733.54,5
+1200,Whitefield,1060,2,0,4265.86,1
+1201,Whitefield,1818,2,0,12075.41,5
+1202,Whitefield,1011,4,2,5688.36,5
+1203,Marathahalli,1299,1,1,6332.75,3
+1204,Whitefield,1659,4,3,11106.77,3
+1205,Jayanagar,1384,3,2,8236.13,2
+1206,Jayanagar,1874,1,3,12034.86,4
+1207,Whitefield,1577,1,2,10919.8,2
+1208,BTM Layout,1538,4,0,6964.93,2
+1209,Electronic City,1523,4,1,4849.48,2
+1210,Marathahalli,1534,2,3,5970.05,3
+1211,Koramangala,1165,2,0,6893.18,2
+1212,Electronic City,861,1,3,3409.35,1
+1213,Indira Nagar,1737,3,2,14540.66,3
+1214,Indira Nagar,677,3,1,5974.97,1
+1215,Marathahalli,1324,4,2,4651.74,2
+1216,Jayanagar,1091,5,1,7528.8,1
+1217,Electronic City,1564,4,1,5946.69,1
+1218,BTM Layout,1589,5,2,7440.23,5
+1219,Marathahalli,808,1,2,4390.02,3
+1220,Whitefield,1393,3,3,9439.24,5
+1221,Electronic City,1110,3,1,4321.85,2
+1222,Indira Nagar,1246,1,2,8029.97,2
+1223,Whitefield,1635,1,0,6754.57,2
+1224,HSR Layout,1527,2,3,10465.75,3
+1225,BTM Layout,1057,1,1,4688.27,4
+1226,Marathahalli,1392,5,0,6161.05,1
+1227,Whitefield,1019,4,0,4898.87,4
+1228,Koramangala,1271,4,3,8012.73,5
+1229,Jayanagar,1604,5,0,8614.82,5
+1230,Koramangala,1086,1,0,7906.35,5
+1231,Jayanagar,1576,2,3,9642.78,2
+1232,Jayanagar,1625,3,0,10993.91,3
+1233,Whitefield,1028,5,1,5694.43,3
+1234,HSR Layout,1557,5,3,12539.45,1
+1235,Electronic City,1252,1,3,4707.84,1
+1236,Koramangala,831,1,3,5001.67,1
+1237,Indira Nagar,900,2,3,5105.44,3
+1238,Electronic City,1726,2,1,8721.19,3
+1239,Jayanagar,1849,1,3,10864.83,5
+1240,HSR Layout,1352,1,2,7986.41,4
+1241,Jayanagar,1684,3,0,10723.59,5
+1242,Koramangala,741,5,3,4908.42,2
+1243,Electronic City,1006,1,1,3375.56,3
+1244,HSR Layout,979,2,3,7436.71,4
+1245,Jayanagar,1114,4,3,8865.98,3
+1246,Koramangala,1134,4,0,7488.02,5
+1247,Indira Nagar,1011,5,0,6875.99,2
+1248,Indira Nagar,1361,4,3,9138.34,5
+1249,BTM Layout,1401,1,0,6201.4,5
+1250,Indira Nagar,825,4,3,4419.56,3
+1251,Whitefield,1210,1,3,6263.26,2
+1252,Whitefield,1282,2,1,8343.16,1
+1253,Marathahalli,628,4,1,3084.16,1
+1254,Whitefield,1011,3,3,6490.13,4
+1255,Whitefield,1008,1,0,4245.58,1
+1256,Indira Nagar,1647,4,3,14571.78,2
+1257,HSR Layout,1040,3,3,6018.8,3
+1258,Indira Nagar,1556,5,0,11424.12,5
+1259,Whitefield,1426,4,0,6490.02,3
+1260,HSR Layout,1093,2,1,7703.89,5
+1261,Koramangala,1620,2,3,14174.03,5
+1262,Koramangala,1682,3,3,11005.94,4
+1263,Electronic City,1553,3,3,5449.55,5
+1264,Indira Nagar,701,2,1,5082.4,1
+1265,Whitefield,813,5,2,3953.6,1
+1266,Electronic City,1734,1,2,8800.8,3
+1267,BTM Layout,1099,3,0,6927.71,4
+1268,Indira Nagar,1692,3,2,12948.35,2
+1269,Jayanagar,1429,1,1,10513.42,4
+1270,Whitefield,917,3,2,5528.51,2
+1271,Jayanagar,1036,4,1,6791.1,2
+1272,HSR Layout,950,5,3,6128.65,2
+1273,Jayanagar,1542,4,3,10055.1,3
+1274,Koramangala,1437,1,1,8207.17,2
+1275,Koramangala,1121,5,0,9722.67,5
+1276,Whitefield,1125,1,1,4733.19,5
+1277,Whitefield,1399,5,2,8416.58,4
+1278,Koramangala,1190,2,2,11556.1,5
+1279,Whitefield,1806,4,2,8852.66,4
+1280,Electronic City,1428,1,3,6678.84,4
+1281,Koramangala,1517,5,0,8892.78,3
+1282,Jayanagar,1452,2,0,10071.72,1
+1283,HSR Layout,661,1,3,4739.95,1
+1284,Electronic City,1664,5,3,5333.83,4
+1285,Indira Nagar,1468,1,1,8128.93,5
+1286,HSR Layout,1491,2,2,7963.88,2
+1287,HSR Layout,935,1,3,5809.98,4
+1288,Electronic City,1012,1,2,4054.02,1
+1289,Jayanagar,1725,5,0,15438.29,4
+1290,HSR Layout,1706,5,3,8634.08,3
+1291,BTM Layout,1228,2,2,9309.1,4
+1292,HSR Layout,1371,3,3,8133.78,2
+1293,Whitefield,1857,2,2,10621.01,5
+1294,Koramangala,1468,4,1,12649.75,1
+1295,BTM Layout,1504,5,3,10135.68,2
+1296,Koramangala,1171,2,3,7936.29,5
+1297,Whitefield,1413,3,2,8093.4,2
+1298,Whitefield,1300,3,3,7638.86,3
+1299,BTM Layout,1686,1,0,9553.88,3
+1300,Jayanagar,774,4,2,6679.91,2
+1301,Koramangala,1688,2,0,14209.41,3
+1302,Indira Nagar,1380,2,1,8481.38,5
+1303,Electronic City,1463,1,3,7078.67,4
+1304,Whitefield,1330,1,1,9479.35,4
+1305,Whitefield,1332,2,3,8412.6,5
+1306,Marathahalli,1965,2,1,9256.51,5
+1307,BTM Layout,1093,4,0,7624.01,3
+1308,Jayanagar,1678,2,0,9997.73,3
+1309,HSR Layout,1107,4,3,5069.75,1
+1310,BTM Layout,1543,2,3,8449.9,4
+1311,Indira Nagar,795,3,3,4225.67,1
+1312,Jayanagar,1533,5,3,9574.08,5
+1313,Marathahalli,1819,4,3,10564.37,5
+1314,Jayanagar,1469,2,2,7319.1,5
+1315,Koramangala,1203,3,2,11669.07,2
+1316,Whitefield,770,2,1,5322.81,2
+1317,HSR Layout,1857,2,1,15519.38,4
+1318,BTM Layout,1645,4,3,8025.4,4
+1319,Indira Nagar,906,5,2,7152.47,3
+1320,Whitefield,942,4,0,5691.85,1
+1321,Whitefield,1373,3,2,7499.2,5
+1322,BTM Layout,907,3,2,4404.78,1
+1323,HSR Layout,802,2,1,5623.04,3
+1324,Koramangala,1353,1,1,12753.4,4
+1325,Indira Nagar,1373,1,2,7597.27,1
+1326,Indira Nagar,1544,3,2,9014.24,1
+1327,Jayanagar,1170,5,0,10043.58,1
+1328,Koramangala,743,2,1,4346.89,1
+1329,Jayanagar,1296,4,0,8923.16,1
+1330,HSR Layout,1048,5,0,5390.96,1
+1331,Electronic City,1474,5,2,6723.93,3
+1332,Jayanagar,675,2,3,3471.84,1
+1333,Electronic City,1148,1,1,4308.43,1
+1334,BTM Layout,1147,2,2,7587.52,1
+1335,Marathahalli,1453,3,1,7818.88,1
+1336,HSR Layout,1910,1,3,9786.22,5
+1337,Electronic City,1456,4,0,5899.86,5
+1338,Whitefield,913,1,3,5348.92,3
+1339,Electronic City,1441,4,1,4855.27,4
+1340,Indira Nagar,1753,4,1,11016.89,5
+1341,HSR Layout,1645,5,2,10504.35,2
+1342,Marathahalli,1554,5,1,8503.17,2
+1343,Jayanagar,1211,5,0,6168.34,1
+1344,BTM Layout,1165,1,2,7543.45,3
+1345,Whitefield,1746,5,1,8624.46,3
+1346,HSR Layout,1481,5,1,7760.44,1
+1347,Marathahalli,978,4,0,5889.04,1
+1348,Whitefield,912,2,1,4569.17,1
+1349,Marathahalli,1004,4,3,4534.99,1
+1350,Jayanagar,808,2,1,5365.78,1
+1351,Electronic City,1302,2,2,5946.57,5
+1352,Whitefield,1721,5,0,9193.44,4
+1353,Indira Nagar,1409,3,3,8987.85,1
+1354,Indira Nagar,738,4,2,5991.61,1
+1355,BTM Layout,1451,1,1,8901.87,2
+1356,Koramangala,1382,4,1,9063.79,4
+1357,BTM Layout,1564,2,1,10079.14,5
+1358,HSR Layout,1405,2,1,11001.33,2
+1359,Jayanagar,1897,2,0,14598.36,5
+1360,Marathahalli,919,1,3,5811.95,1
+1361,BTM Layout,963,4,0,6401.48,1
+1362,BTM Layout,1420,1,1,7967.25,5
+1363,Whitefield,872,1,1,4297.61,3
+1364,BTM Layout,1428,4,3,9816.77,1
+1365,Electronic City,1687,3,2,8754.31,3
+1366,BTM Layout,802,4,0,5963.96,1
+1367,Electronic City,1853,5,3,8543.82,5
+1368,Whitefield,968,1,3,6598.88,4
+1369,Jayanagar,752,1,3,5872.6,2
+1370,Koramangala,1882,5,0,17061.42,4
+1371,HSR Layout,1172,1,1,6074.83,5
+1372,Marathahalli,1564,2,1,6978.85,3
+1373,Koramangala,1095,1,3,6429.29,2
+1374,BTM Layout,1290,2,2,5920.24,5
+1375,HSR Layout,1312,3,0,9683.75,5
+1376,Jayanagar,1558,3,2,10236.61,3
+1377,Whitefield,1132,3,1,5030.75,3
+1378,HSR Layout,936,1,2,7461.21,3
+1379,BTM Layout,808,1,3,4054.78,3
+1380,Indira Nagar,615,5,1,5959.26,1
+1381,Indira Nagar,1407,2,1,10536.59,3
+1382,Marathahalli,1515,1,1,5977.9,1
+1383,Whitefield,1144,4,3,7224.26,2
+1384,HSR Layout,1748,1,0,14376.35,4
+1385,Marathahalli,946,1,3,5075.91,4
+1386,Indira Nagar,1797,2,2,13704.88,5
+1387,Koramangala,1158,5,3,9154.7,4
+1388,HSR Layout,1887,2,2,11399.24,4
+1389,Whitefield,820,5,2,5067.09,1
+1390,Electronic City,1812,2,3,10428.51,4
+1391,Whitefield,902,5,0,4080.48,4
+1392,Whitefield,1109,3,3,4667.67,3
+1393,Koramangala,1515,4,0,13228.57,2
+1394,Electronic City,1121,4,3,4167.07,5
+1395,Whitefield,1112,5,1,5152.35,1
+1396,BTM Layout,1324,1,3,9279.83,5
+1397,Jayanagar,1773,3,0,11236.78,4
+1398,BTM Layout,914,3,0,6983.86,4
+1399,Electronic City,1456,3,0,5446.44,2
+1400,Jayanagar,1293,4,1,7664.0,2
+1401,Koramangala,1268,2,3,7649.61,2
+1402,Jayanagar,1354,2,3,8174.12,4
+1403,Electronic City,1534,2,0,7077.97,3
+1404,HSR Layout,1574,1,0,10024.75,4
+1405,BTM Layout,961,2,0,6111.14,3
+1406,Koramangala,1607,3,0,14185.79,2
+1407,Koramangala,1520,4,2,12343.53,3
+1408,Jayanagar,1511,4,1,11190.55,2
+1409,BTM Layout,1403,2,0,6120.73,2
+1410,Whitefield,873,2,0,5961.38,2
+1411,Marathahalli,1078,3,1,6412.69,3
+1412,HSR Layout,1485,3,0,7546.41,4
+1413,Marathahalli,1598,4,0,7993.62,3
+1414,Indira Nagar,1350,5,0,9496.13,1
+1415,Indira Nagar,960,2,1,8940.55,3
+1416,Jayanagar,1188,4,3,6929.36,4
+1417,Jayanagar,816,4,3,6495.92,1
+1418,BTM Layout,977,3,3,7109.81,3
+1419,Whitefield,1476,3,0,6834.28,3
+1420,Electronic City,1196,2,0,6812.48,3
+1421,Koramangala,1824,5,0,15622.57,5
+1422,HSR Layout,1378,5,1,8137.26,4
+1423,Koramangala,971,5,1,5919.11,3
+1424,Electronic City,1549,1,0,5743.02,1
+1425,Electronic City,1360,1,2,4972.82,5
+1426,Indira Nagar,730,3,3,6136.82,2
+1427,HSR Layout,1261,4,3,10513.09,3
+1428,Indira Nagar,1341,5,2,8865.58,5
+1429,BTM Layout,1421,4,0,7153.25,4
+1430,Koramangala,767,4,0,5364.32,2
+1431,HSR Layout,1878,3,1,14460.6,4
+1432,Jayanagar,1256,5,3,8373.81,1
+1433,Jayanagar,1430,1,0,12401.13,1
+1434,BTM Layout,1052,2,1,6713.8,5
+1435,HSR Layout,893,2,3,6236.88,2
+1436,Jayanagar,1153,2,1,7728.11,3
+1437,Koramangala,1367,4,1,11362.81,4
+1438,Whitefield,1030,4,3,6958.81,2
+1439,Electronic City,1732,4,0,9930.06,3
+1440,Jayanagar,1144,4,0,6322.58,2
+1441,Koramangala,1906,5,0,15302.75,5
+1442,Jayanagar,856,3,0,6071.12,2
+1443,Whitefield,1304,4,0,6341.96,4
+1444,Koramangala,1106,4,2,10277.32,1
+1445,BTM Layout,656,1,1,4569.95,1
+1446,Indira Nagar,1873,1,0,17138.63,5
+1447,Whitefield,1278,2,2,4973.92,1
+1448,Koramangala,1276,5,2,10233.4,2
+1449,Indira Nagar,1149,2,2,6314.03,1
+1450,Koramangala,1680,1,0,10475.51,4
+1451,Whitefield,1344,1,0,5885.06,5
+1452,Jayanagar,716,2,1,3983.79,2
+1453,BTM Layout,1271,3,1,7243.34,3
+1454,BTM Layout,931,4,1,5297.31,2
+1455,HSR Layout,1883,4,2,14552.43,5
+1456,Koramangala,1179,3,0,9416.94,4
+1457,Whitefield,1598,5,1,10416.02,1
+1458,Jayanagar,1432,4,1,10949.61,4
+1459,Marathahalli,923,2,1,4969.46,4
+1460,Jayanagar,997,5,2,6544.73,2
+1461,Indira Nagar,1186,2,0,9995.26,1
+1462,BTM Layout,1589,4,1,12367.33,4
+1463,Koramangala,1030,4,2,6132.5,3
+1464,Marathahalli,988,3,3,4045.07,2
+1465,Jayanagar,1377,5,2,12457.3,3
+1466,Electronic City,823,2,0,4130.95,2
+1467,HSR Layout,606,1,2,3490.44,1
+1468,Jayanagar,817,3,3,4686.15,1
+1469,Indira Nagar,1853,2,2,11268.51,5
+1470,Marathahalli,944,1,3,4607.58,2
+1471,Jayanagar,1133,4,1,7369.37,5
+1472,Indira Nagar,1255,3,0,8220.18,2
+1473,BTM Layout,1510,3,1,10326.36,2
+1474,BTM Layout,1646,3,2,12400.03,4
+1475,Electronic City,1031,3,2,3630.25,5
+1476,Indira Nagar,1165,1,3,9000.18,1
+1477,BTM Layout,1675,4,1,9159.21,3
+1478,HSR Layout,1155,2,2,7088.11,1
+1479,Marathahalli,818,1,3,3822.74,2
+1480,BTM Layout,1266,3,0,8904.69,2
+1481,Koramangala,816,4,0,7411.3,3
+1482,Indira Nagar,883,5,0,8465.16,1
+1483,HSR Layout,903,5,1,6141.73,3
+1484,Koramangala,976,5,0,10142.91,2
+1485,HSR Layout,1372,1,3,9868.48,2
+1486,HSR Layout,810,1,1,6729.35,3
+1487,Koramangala,1022,2,1,9335.93,4
+1488,Jayanagar,1033,5,1,6053.7,5
+1489,Jayanagar,1581,3,1,11226.18,1
+1490,Electronic City,1734,3,1,9066.06,4
+1491,Electronic City,1320,4,2,4451.42,3
+1492,Marathahalli,1386,4,0,5766.59,5
+1493,Indira Nagar,1539,5,3,13258.46,3
+1494,Electronic City,1131,5,3,6151.23,2
+1495,HSR Layout,1666,4,2,11396.84,2
+1496,HSR Layout,1396,1,1,9764.15,1
+1497,BTM Layout,967,2,2,5886.86,3
+1498,HSR Layout,952,5,3,4405.42,3
+1499,Jayanagar,1195,5,3,7392.31,1
+1500,Koramangala,958,4,2,8995.87,2
+1501,HSR Layout,816,1,0,4367.42,3
+1502,BTM Layout,1325,4,2,6673.63,1
+1503,Whitefield,1374,1,3,9460.92,2
+1504,Jayanagar,1369,5,1,10875.75,4
+1505,HSR Layout,1409,2,0,11461.11,2
+1506,Indira Nagar,1638,3,0,11386.67,5
+1507,BTM Layout,1872,1,0,11887.81,5
+1508,HSR Layout,924,2,0,4966.88,4
+1509,Koramangala,1879,4,1,16012.86,4
+1510,BTM Layout,1616,4,1,12102.75,2
+1511,BTM Layout,1639,4,0,7533.51,3
+1512,Koramangala,877,1,2,5505.98,2
+1513,Indira Nagar,1431,5,0,10752.36,1
+1514,Whitefield,1328,4,3,5490.24,2
+1515,Marathahalli,1534,2,1,9314.23,5
+1516,HSR Layout,1159,1,0,8776.37,4
+1517,BTM Layout,1212,3,1,9408.68,4
+1518,BTM Layout,1106,2,1,7207.75,4
+1519,Electronic City,874,5,1,3726.64,1
+1520,Marathahalli,1303,2,1,5196.72,5
+1521,Koramangala,1246,2,2,10127.62,1
+1522,Whitefield,1573,2,3,9112.83,2
+1523,Marathahalli,1781,4,2,9790.04,4
+1524,HSR Layout,1067,5,2,8055.33,3
+1525,BTM Layout,712,3,0,3563.83,2
+1526,Indira Nagar,1476,5,0,12278.94,3
+1527,HSR Layout,955,4,3,5733.18,1
+1528,Electronic City,1818,4,0,6925.3,4
+1529,Whitefield,1488,4,1,8535.82,4
+1530,HSR Layout,1421,4,1,11891.81,4
+1531,Whitefield,1181,5,3,6412.91,4
+1532,Jayanagar,1232,1,1,9119.76,4
+1533,Jayanagar,1281,2,0,8946.59,4
+1534,Jayanagar,1071,4,1,6685.3,1
+1535,HSR Layout,1258,1,1,5767.47,3
+1536,Whitefield,1150,1,3,6534.69,3
+1537,Electronic City,1687,4,1,6752.5,2
+1538,Jayanagar,993,4,2,7907.39,4
+1539,Koramangala,1422,3,0,12680.54,5
+1540,BTM Layout,1201,5,2,7738.48,1
+1541,Koramangala,1035,2,1,10449.33,5
+1542,Koramangala,971,5,3,7253.48,1
+1543,Electronic City,1103,2,3,5206.26,3
+1544,Marathahalli,924,4,3,4121.47,3
+1545,HSR Layout,1782,2,1,12878.31,5
+1546,Electronic City,1161,2,0,4745.62,3
+1547,BTM Layout,1230,3,2,5918.06,3
+1548,HSR Layout,1236,1,0,8612.86,2
+1549,Electronic City,1037,5,0,4002.29,5
+1550,Marathahalli,1585,1,1,6882.49,2
+1551,Indira Nagar,1803,3,2,16876.56,4
+1552,Jayanagar,1787,5,1,11681.16,5
+1553,HSR Layout,1832,4,3,12904.32,4
+1554,HSR Layout,627,3,2,5068.27,1
+1555,Indira Nagar,1241,5,0,10981.14,5
+1556,Whitefield,1912,1,0,13585.5,5
+1557,HSR Layout,1460,4,2,7562.09,2
+1558,Electronic City,1488,3,1,5694.8,5
+1559,Jayanagar,1122,5,0,5802.41,3
+1560,Whitefield,1993,3,1,8223.18,5
+1561,Electronic City,1838,1,2,7537.3,5
+1562,Whitefield,1839,2,3,13114.42,4
+1563,Whitefield,1356,4,3,5574.99,2
+1564,Indira Nagar,1351,3,2,12669.26,5
+1565,Jayanagar,1356,1,3,7485.81,5
+1566,Jayanagar,721,1,0,5578.74,2
+1567,Electronic City,1193,3,2,6369.39,4
+1568,Marathahalli,916,3,0,4639.83,1
+1569,Electronic City,1968,2,1,10986.29,5
+1570,Marathahalli,744,5,3,4389.55,2
+1571,Marathahalli,935,5,1,4298.22,3
+1572,Marathahalli,1413,4,1,5539.98,1
+1573,Koramangala,1262,1,0,8019.95,3
+1574,Electronic City,1358,2,3,4580.93,2
+1575,BTM Layout,1362,2,0,6460.61,2
+1576,Whitefield,1918,2,2,13306.31,5
+1577,Indira Nagar,803,2,1,6606.79,1
+1578,Whitefield,1693,2,0,9279.51,5
+1579,HSR Layout,1147,1,3,9064.4,4
+1580,Jayanagar,1445,5,3,8071.68,1
+1581,Koramangala,1074,1,2,9607.81,3
+1582,HSR Layout,1715,1,2,11701.13,3
+1583,Jayanagar,1458,5,2,9737.27,4
+1584,Electronic City,1374,3,1,5833.41,3
+1585,Koramangala,1355,2,0,8444.65,1
+1586,Indira Nagar,854,1,0,8191.6,2
+1587,Jayanagar,1212,5,0,8165.33,1
+1588,Marathahalli,638,3,2,2699.73,1
+1589,HSR Layout,1616,5,3,10504.97,5
+1590,Marathahalli,1595,3,0,10338.57,4
+1591,BTM Layout,1242,5,0,7128.6,2
+1592,Jayanagar,679,2,0,5428.25,1
+1593,Marathahalli,1373,3,0,5182.65,2
+1594,Jayanagar,1439,1,3,8777.41,4
+1595,Marathahalli,1679,1,2,10447.9,5
+1596,BTM Layout,1429,4,0,7515.0,5
+1597,Whitefield,960,1,0,5687.88,4
+1598,Indira Nagar,1902,2,1,15584.11,5
+1599,Indira Nagar,1334,3,2,10297.44,2
+1600,HSR Layout,1070,1,3,6680.87,1
+1601,Indira Nagar,1160,2,2,9194.46,4
+1602,Whitefield,1480,2,1,8695.5,1
+1603,BTM Layout,901,2,0,4986.81,4
+1604,Indira Nagar,1539,1,0,11844.41,2
+1605,Jayanagar,855,2,0,6656.06,2
+1606,Jayanagar,1130,3,2,6454.95,5
+1607,Marathahalli,961,5,3,4345.74,3
+1608,Electronic City,1464,2,3,7263.8,1
+1609,BTM Layout,1802,4,2,9527.51,5
+1610,HSR Layout,1673,1,0,11462.08,4
+1611,HSR Layout,1538,3,3,12683.7,2
+1612,Koramangala,1077,3,0,6348.77,1
+1613,Indira Nagar,1597,3,2,8525.12,1
+1614,Koramangala,822,4,1,7964.62,2
+1615,Electronic City,772,4,2,3045.93,2
+1616,Indira Nagar,1514,2,2,10115.84,5
+1617,Jayanagar,1223,4,0,9247.15,1
+1618,Electronic City,1029,1,0,5599.21,1
+1619,Marathahalli,814,4,1,4131.42,3
+1620,Electronic City,1324,2,1,5960.84,1
+1621,Marathahalli,1489,4,3,9200.21,4
+1622,Electronic City,1480,2,2,6592.56,1
+1623,HSR Layout,1655,5,1,13518.55,3
+1624,Whitefield,976,5,0,6956.96,1
+1625,Whitefield,714,5,3,4374.86,1
+1626,Jayanagar,1449,1,0,10558.13,3
+1627,Electronic City,754,4,1,3643.95,1
+1628,Whitefield,1969,4,2,11757.18,5
+1629,Marathahalli,898,5,3,5107.49,1
+1630,Koramangala,1189,3,1,7595.9,1
+1631,Marathahalli,1111,3,0,5394.44,3
+1632,Indira Nagar,1907,2,0,11303.36,5
+1633,HSR Layout,1176,4,0,8486.96,5
+1634,Electronic City,1039,3,1,5290.33,5
+1635,HSR Layout,951,3,1,6143.86,3
+1636,Marathahalli,1061,5,3,4968.13,1
+1637,Indira Nagar,1417,2,0,9207.23,2
+1638,HSR Layout,1042,3,2,5328.7,4
+1639,Koramangala,1275,5,2,9005.19,4
+1640,Jayanagar,1657,4,2,13336.77,3
+1641,BTM Layout,1138,5,2,6191.71,5
+1642,Whitefield,1200,3,3,5363.26,3
+1643,Marathahalli,1796,5,1,6326.39,3
+1644,Marathahalli,1768,5,2,8956.42,5
+1645,HSR Layout,1362,3,2,7408.14,2
+1646,Whitefield,1833,2,3,9924.08,4
+1647,BTM Layout,1754,1,2,7636.24,3
+1648,HSR Layout,1439,4,2,11868.5,2
+1649,Indira Nagar,1476,1,3,12226.95,2
+1650,Marathahalli,1344,3,2,7178.51,5
+1651,Whitefield,984,4,2,4806.39,3
+1652,Indira Nagar,1105,2,2,9221.71,4
+1653,BTM Layout,1465,3,1,6956.74,2
+1654,Marathahalli,1060,5,3,5628.43,5
+1655,HSR Layout,1086,1,2,8971.92,4
+1656,Indira Nagar,807,1,2,6239.35,2
+1657,Jayanagar,972,4,1,5618.31,2
+1658,Marathahalli,1829,1,2,9856.77,5
+1659,BTM Layout,1267,3,2,5550.72,1
+1660,Whitefield,991,2,2,5366.05,3
+1661,Marathahalli,1616,5,3,10361.08,2
+1662,BTM Layout,1601,4,2,10178.75,3
+1663,Marathahalli,1267,3,3,5698.86,4
+1664,Electronic City,891,3,0,4632.17,2
+1665,BTM Layout,1961,1,0,12293.69,5
+1666,Electronic City,1200,4,0,6288.66,1
+1667,Koramangala,1468,1,3,10717.06,3
+1668,Whitefield,1426,1,2,6927.18,3
+1669,Whitefield,1272,3,1,7579.39,2
+1670,HSR Layout,1721,5,2,14426.57,3
+1671,Koramangala,1551,4,0,12410.77,4
+1672,Jayanagar,1027,3,2,6955.17,2
+1673,BTM Layout,1189,4,2,8066.51,1
+1674,Electronic City,1282,4,2,7085.94,2
+1675,Electronic City,762,5,2,4228.45,1
+1676,BTM Layout,691,2,3,3666.05,1
+1677,Koramangala,857,2,0,4869.39,3
+1678,HSR Layout,1065,1,0,5686.39,1
+1679,Marathahalli,1257,2,0,6293.24,3
+1680,BTM Layout,1650,2,0,10487.78,4
+1681,Jayanagar,601,5,0,5097.32,1
+1682,Koramangala,1480,1,1,9357.33,3
+1683,HSR Layout,1142,5,1,9295.45,2
+1684,Whitefield,1722,4,3,7586.69,4
+1685,Electronic City,1028,1,0,4750.21,5
+1686,Marathahalli,1049,1,1,6339.23,4
+1687,Jayanagar,1331,5,0,12100.62,4
+1688,HSR Layout,1563,2,2,13129.93,2
+1689,Indira Nagar,1617,4,2,10124.73,4
+1690,Electronic City,1200,3,0,5806.11,4
+1691,Marathahalli,702,1,1,4270.43,2
+1692,Whitefield,1193,2,1,5323.08,1
+1693,Marathahalli,1756,1,2,11344.43,3
+1694,HSR Layout,1689,4,1,12236.54,3
+1695,BTM Layout,1476,4,3,10955.47,1
+1696,Electronic City,797,5,1,4233.22,2
+1697,Electronic City,1755,3,2,6158.37,5
+1698,Marathahalli,965,4,0,6121.1,4
+1699,HSR Layout,1833,1,2,8840.68,5
+1700,BTM Layout,1367,2,3,9078.16,2
+1701,Whitefield,1114,2,2,6375.55,3
+1702,Koramangala,940,4,1,8646.83,4
+1703,Koramangala,1210,4,3,10584.74,4
+1704,Koramangala,1393,2,0,12703.32,2
+1705,Jayanagar,1073,2,3,6907.11,5
+1706,HSR Layout,869,2,2,4392.42,2
+1707,HSR Layout,1070,4,2,6291.27,1
+1708,Jayanagar,1663,4,2,9348.36,5
+1709,HSR Layout,1659,5,0,13230.47,3
+1710,Whitefield,1419,2,1,9453.5,2
+1711,Indira Nagar,690,3,1,4956.65,1
+1712,Electronic City,1315,5,3,5577.0,2
+1713,Koramangala,1476,1,1,14422.69,3
+1714,Jayanagar,1142,1,2,6942.65,1
+1715,Jayanagar,1571,5,3,8910.53,2
+1716,Koramangala,1190,4,1,10891.82,2
+1717,HSR Layout,1359,1,3,6701.2,2
+1718,Whitefield,1307,2,1,6338.69,2
+1719,Jayanagar,1412,4,2,10643.87,1
+1720,Electronic City,1449,3,0,5955.2,1
+1721,Jayanagar,1728,2,2,10779.48,3
+1722,BTM Layout,1178,1,1,5208.32,5
+1723,Electronic City,1112,4,0,5274.6,2
+1724,HSR Layout,1053,2,1,5444.44,5
+1725,BTM Layout,1403,1,2,10301.48,3
+1726,Marathahalli,1576,4,2,8091.66,5
+1727,Koramangala,677,3,3,5139.29,1
+1728,BTM Layout,1133,3,3,7048.58,2
+1729,BTM Layout,1583,4,1,6851.86,4
+1730,BTM Layout,1052,2,1,6408.67,5
+1731,Marathahalli,1677,2,0,9086.39,3
+1732,Indira Nagar,1754,5,0,9437.26,4
+1733,Marathahalli,935,4,2,4096.76,4
+1734,BTM Layout,1393,1,2,8714.06,4
+1735,HSR Layout,737,2,3,5893.48,1
+1736,BTM Layout,1432,3,3,6065.4,3
+1737,BTM Layout,1574,3,2,11524.61,5
+1738,Jayanagar,1412,3,0,11002.89,3
+1739,Koramangala,754,2,0,7790.51,2
+1740,BTM Layout,1336,2,2,9235.46,4
+1741,Marathahalli,1324,4,1,8069.25,2
+1742,Jayanagar,998,1,2,5384.69,2
+1743,Whitefield,1723,5,0,8633.47,3
+1744,HSR Layout,1761,5,1,12345.31,4
+1745,Koramangala,1030,5,2,8895.87,5
+1746,Marathahalli,1450,1,3,5120.83,5
+1747,Electronic City,1001,5,0,3847.64,5
+1748,Jayanagar,1368,5,0,7893.19,1
+1749,Koramangala,1685,1,0,14526.22,5
+1750,Whitefield,1637,1,3,9000.31,2
+1751,Jayanagar,1113,2,3,7674.01,4
+1752,Indira Nagar,1903,4,1,15188.19,5
+1753,Koramangala,1156,3,0,9730.5,3
+1754,Jayanagar,845,2,2,4301.25,2
+1755,Indira Nagar,898,2,2,4875.56,1
+1756,Jayanagar,1171,4,3,7182.73,2
+1757,BTM Layout,1470,1,3,6273.38,1
+1758,Koramangala,1651,3,0,14523.71,5
+1759,Koramangala,1053,3,3,6443.53,1
+1760,BTM Layout,1245,1,1,7840.84,4
+1761,Marathahalli,876,4,3,5001.8,2
+1762,Koramangala,1042,5,2,8324.27,3
+1763,Koramangala,716,5,3,7118.72,2
+1764,Electronic City,1460,2,0,5939.28,5
+1765,Jayanagar,1306,2,2,11667.09,5
+1766,Koramangala,1064,3,2,8192.68,3
+1767,Koramangala,1189,5,2,9794.31,4
+1768,Whitefield,1225,4,3,6845.04,5
+1769,Whitefield,1230,1,1,8498.73,3
+1770,Jayanagar,872,3,3,7568.96,3
+1771,Electronic City,1548,3,2,6385.15,4
+1772,BTM Layout,722,4,2,4368.72,1
+1773,HSR Layout,1232,3,2,10106.87,4
+1774,HSR Layout,825,2,3,4054.07,2
+1775,BTM Layout,1506,2,0,11654.06,2
+1776,Marathahalli,1159,1,1,5450.9,4
+1777,Koramangala,1316,5,2,11098.21,4
+1778,Whitefield,1253,3,0,7929.08,3
+1779,Marathahalli,1115,5,2,4981.55,1
+1780,Indira Nagar,969,5,2,7430.16,1
+1781,Indira Nagar,855,1,2,8078.25,1
+1782,Indira Nagar,833,5,1,5575.4,1
+1783,Koramangala,1916,5,2,13520.74,5
+1784,Koramangala,1436,4,0,9652.57,3
+1785,Koramangala,1211,1,1,8041.13,1
+1786,HSR Layout,1589,1,0,11969.57,2
+1787,Whitefield,1877,3,0,12745.92,4
+1788,Indira Nagar,772,1,2,6918.68,1
+1789,HSR Layout,1760,1,0,11358.12,3
+1790,Indira Nagar,1519,5,2,11521.43,5
+1791,Whitefield,1788,3,1,8251.69,4
+1792,Electronic City,1302,2,2,4625.96,1
+1793,Koramangala,1127,4,1,10469.35,3
+1794,Electronic City,1033,4,3,4744.6,5
+1795,Electronic City,1316,5,2,6687.09,2
+1796,Marathahalli,1185,1,1,6733.5,3
+1797,BTM Layout,1681,3,1,7724.55,2
+1798,Jayanagar,1735,2,2,14955.73,5
+1799,HSR Layout,1427,4,2,6836.75,2
+1800,Electronic City,1562,3,0,5491.99,5
+1801,HSR Layout,1348,5,2,8789.24,4
+1802,HSR Layout,635,2,3,3707.5,1
+1803,Indira Nagar,1618,4,3,15327.34,3
+1804,Electronic City,750,2,3,4370.53,1
+1805,Electronic City,1661,4,1,9382.92,2
+1806,Koramangala,1511,3,0,10701.62,3
+1807,Electronic City,711,4,0,4029.4,2
+1808,BTM Layout,1102,2,3,6080.36,4
+1809,BTM Layout,1772,1,1,11690.45,5
+1810,BTM Layout,631,3,1,3340.91,1
+1811,Jayanagar,888,4,2,5865.04,2
+1812,Jayanagar,1109,3,3,8933.0,5
+1813,HSR Layout,791,4,0,3751.04,2
+1814,Indira Nagar,1244,5,3,9508.69,2
+1815,Marathahalli,1815,5,2,9698.7,4
+1816,BTM Layout,1347,1,0,6706.3,4
+1817,Indira Nagar,1869,1,3,12314.93,4
+1818,Jayanagar,1298,5,1,7203.8,1
+1819,Koramangala,1174,5,3,8383.37,5
+1820,Marathahalli,1020,2,0,5076.45,5
+1821,HSR Layout,1078,3,0,7688.23,5
+1822,Koramangala,779,4,1,8013.79,1
+1823,Jayanagar,1749,1,1,10763.94,5
+1824,Whitefield,1453,2,0,6745.6,5
+1825,Whitefield,1195,2,2,6523.23,2
+1826,Electronic City,967,2,1,3952.26,2
+1827,Electronic City,1358,3,3,7721.83,4
+1828,Koramangala,1347,5,1,11666.78,5
+1829,Koramangala,942,5,3,6130.83,1
+1830,Jayanagar,666,3,1,4848.28,1
+1831,Whitefield,869,5,0,5858.98,1
+1832,Indira Nagar,1575,2,2,14795.57,4
+1833,HSR Layout,692,1,3,5278.91,1
+1834,Koramangala,1098,2,1,7474.77,5
+1835,Marathahalli,1018,2,0,5485.59,2
+1836,Koramangala,1218,3,1,11676.42,5
+1837,Koramangala,1489,1,2,12636.16,5
+1838,Electronic City,1489,5,2,6288.33,4
+1839,HSR Layout,1577,2,2,7432.59,2
+1840,Whitefield,1664,2,2,11875.68,3
+1841,Jayanagar,1029,2,2,7000.68,5
+1842,HSR Layout,940,3,0,6206.1,3
+1843,BTM Layout,1251,1,0,8865.47,2
+1844,Whitefield,1189,3,0,6985.83,1
+1845,Electronic City,1421,5,0,5979.77,1
+1846,Jayanagar,952,5,2,7455.24,3
+1847,Whitefield,1612,5,3,6623.81,2
+1848,Marathahalli,1369,3,1,7125.33,4
+1849,Jayanagar,1805,2,3,13802.11,5
+1850,Koramangala,652,2,2,6064.1,1
+1851,HSR Layout,1389,5,0,7875.95,4
+1852,HSR Layout,1680,4,1,9475.55,3
+1853,Jayanagar,946,1,1,6181.2,2
+1854,Marathahalli,1766,4,3,10112.33,5
+1855,Whitefield,1790,5,2,11752.3,3
+1856,Marathahalli,1560,3,3,8904.48,5
+1857,Electronic City,1152,2,1,3827.01,4
+1858,Electronic City,1537,5,2,6041.04,2
+1859,Whitefield,1214,4,0,6689.26,3
+1860,Koramangala,856,4,1,8042.82,1
+1861,Jayanagar,728,3,2,5711.26,2
+1862,BTM Layout,1636,2,3,8413.38,2
+1863,HSR Layout,1685,5,2,7995.75,5
+1864,Electronic City,1100,4,3,4193.59,3
+1865,Marathahalli,1747,4,3,10641.01,3
+1866,Marathahalli,1125,3,1,6341.12,1
+1867,Koramangala,1150,1,0,11285.74,3
+1868,Indira Nagar,855,3,1,4923.01,2
+1869,Marathahalli,1202,1,2,4635.88,2
+1870,Koramangala,1979,5,2,20482.09,5
+1871,Whitefield,1308,3,2,5880.42,1
+1872,Whitefield,1396,5,3,6064.36,2
+1873,Indira Nagar,1620,3,0,13380.08,5
+1874,Indira Nagar,1705,3,0,13278.3,4
+1875,HSR Layout,1481,3,2,8786.07,4
+1876,Jayanagar,1370,3,1,10991.0,5
+1877,BTM Layout,1531,2,3,7731.45,4
+1878,Indira Nagar,1229,4,2,7258.43,5
+1879,Electronic City,613,3,3,2980.48,1
+1880,Electronic City,1012,3,2,5898.38,3
+1881,Jayanagar,1755,1,3,12004.95,5
+1882,Indira Nagar,921,2,3,6649.83,4
+1883,Koramangala,1765,3,2,12861.92,3
+1884,BTM Layout,1226,4,1,6801.99,1
+1885,Electronic City,1361,3,3,6405.77,2
+1886,Indira Nagar,1471,4,0,10383.83,1
+1887,Jayanagar,974,5,3,6586.16,3
+1888,Indira Nagar,798,2,3,6714.05,1
+1889,Electronic City,1185,2,2,5504.13,3
+1890,Jayanagar,1381,2,1,9403.37,1
+1891,Koramangala,1270,5,2,8830.65,4
+1892,Electronic City,1136,3,3,5584.98,2
+1893,Koramangala,1388,4,2,11817.82,3
+1894,Electronic City,843,1,2,3954.41,1
+1895,HSR Layout,1688,4,3,12315.27,2
+1896,BTM Layout,1690,3,2,10325.79,4
+1897,Jayanagar,1090,5,0,6809.97,3
+1898,Marathahalli,1482,3,1,6189.21,2
+1899,HSR Layout,1353,1,1,6401.98,1
+1900,Electronic City,1762,3,3,6566.96,4
+1901,Koramangala,998,3,2,9481.53,4
+1902,BTM Layout,1201,3,2,7458.88,3
+1903,Marathahalli,1819,5,3,7002.89,4
+1904,HSR Layout,621,1,3,3665.54,1
+1905,BTM Layout,743,2,2,4023.0,2
+1906,BTM Layout,1565,5,2,8858.97,5
+1907,Electronic City,834,4,0,2931.13,3
+1908,Jayanagar,1608,4,0,11216.79,3
+1909,Indira Nagar,1780,5,3,9666.29,3
+1910,Electronic City,1312,3,3,6127.09,2
+1911,HSR Layout,962,5,2,6334.51,2
+1912,HSR Layout,1870,5,1,15011.55,4
+1913,BTM Layout,1111,1,0,7679.73,1
+1914,Indira Nagar,1228,5,1,7296.66,1
+1915,BTM Layout,1414,4,3,10878.95,2
+1916,Koramangala,1219,3,3,10433.93,3
+1917,Indira Nagar,1062,1,2,9419.95,1
+1918,Jayanagar,1799,4,2,14968.2,5
+1919,Jayanagar,1365,2,0,6879.23,5
+1920,Whitefield,766,4,0,4593.14,1
+1921,Indira Nagar,1688,5,0,13870.81,4
+1922,Whitefield,623,5,2,3713.39,1
+1923,BTM Layout,1282,4,3,7577.36,1
+1924,Electronic City,1110,3,2,4145.93,4
+1925,Marathahalli,1180,5,2,7599.27,5
+1926,Koramangala,1359,2,1,13140.33,4
+1927,Jayanagar,1445,5,0,12304.76,2
+1928,Electronic City,1593,3,3,6654.02,3
+1929,Whitefield,1412,2,0,7543.0,4
+1930,HSR Layout,924,4,1,7078.37,2
+1931,Koramangala,1430,4,0,12261.79,1
+1932,Indira Nagar,1077,3,0,9425.3,4
+1933,Indira Nagar,1795,2,3,14343.11,4
+1934,BTM Layout,731,4,2,5538.42,2
+1935,Jayanagar,1149,2,3,9606.22,2
+1936,HSR Layout,1245,5,0,6324.0,3
+1937,BTM Layout,892,5,1,3832.14,1
+1938,BTM Layout,1251,5,3,9639.24,4
+1939,Koramangala,1054,5,1,6886.48,4
+1940,Jayanagar,1286,3,2,11631.68,5
+1941,Whitefield,1305,2,2,5645.56,1
+1942,Koramangala,1401,1,0,9524.06,4
+1943,Indira Nagar,1464,5,2,13712.84,1
+1944,Electronic City,1000,5,3,3651.16,3
+1945,BTM Layout,958,5,1,5046.89,2
+1946,Jayanagar,1856,3,0,15015.76,5
+1947,HSR Layout,1194,2,3,5525.15,5
+1948,Indira Nagar,1616,3,2,8954.25,3
+1949,Whitefield,1286,2,1,8432.68,5
+1950,Jayanagar,1229,3,0,9928.19,3
+1951,HSR Layout,1941,5,2,9088.7,5
+1952,BTM Layout,1441,5,3,6070.06,5
+1953,Indira Nagar,1666,3,3,13880.59,4
+1954,Jayanagar,1326,4,2,11628.05,2
+1955,Jayanagar,1366,1,1,8852.54,2
+1956,Koramangala,1354,4,0,9511.86,5
+1957,Whitefield,953,5,3,5415.08,4
+1958,Marathahalli,1577,2,0,7356.83,2
+1959,HSR Layout,1451,3,1,7475.84,4
+1960,Indira Nagar,1758,1,2,14934.12,5
+1961,Whitefield,1584,3,2,10936.26,1
+1962,HSR Layout,1425,1,3,6661.68,3
+1963,Whitefield,939,3,3,6695.85,2
+1964,Whitefield,1252,1,2,6031.9,1
+1965,Electronic City,891,3,1,3935.96,3
+1966,Whitefield,751,5,3,3424.01,1
+1967,Marathahalli,1239,3,1,4467.64,5
+1968,Marathahalli,1698,3,0,8092.97,5
+1969,BTM Layout,1589,2,3,7702.08,1
+1970,Koramangala,1716,3,3,11881.18,5
+1971,HSR Layout,1163,1,0,6136.69,2
+1972,Marathahalli,1138,3,0,5290.02,2
+1973,Electronic City,918,3,1,3096.43,4
+1974,BTM Layout,624,3,3,3280.66,1
+1975,Electronic City,1433,2,3,5602.35,4
+1976,Koramangala,1547,2,1,14485.64,4
+1977,Koramangala,1136,3,1,11445.81,1
+1978,Koramangala,1256,4,0,12928.37,3
+1979,Whitefield,1723,2,1,11778.81,3
+1980,Whitefield,1365,5,1,7406.53,3
+1981,HSR Layout,980,5,0,7985.45,1
+1982,Koramangala,1231,2,2,8736.05,1
+1983,Indira Nagar,1438,2,2,13333.29,4
+1984,Electronic City,755,3,2,3665.52,2
+1985,Jayanagar,1528,4,3,9110.48,5
+1986,Koramangala,850,1,3,5033.58,3
+1987,Marathahalli,1518,1,2,7061.83,4
+1988,Koramangala,1271,4,3,11471.27,5
+1989,Indira Nagar,1795,5,0,12741.28,4
+1990,Koramangala,1155,4,2,11013.13,5
+1991,Indira Nagar,1743,4,0,10490.2,5
+1992,Indira Nagar,1530,3,0,13969.0,1
+1993,BTM Layout,1727,5,0,8921.59,5
+1994,HSR Layout,1193,1,1,6361.75,2
+1995,Whitefield,727,1,2,4856.26,2
+1996,BTM Layout,1017,2,0,4628.86,4
+1997,Marathahalli,1567,5,2,7076.51,2
+1998,Koramangala,1070,2,3,6185.08,2
+1999,Jayanagar,1024,3,3,5225.76,3
+2000,HSR Layout,1222,4,3,7556.07,4
+2001,BTM Layout,1188,4,2,7122.6,3
+2002,Electronic City,1570,4,1,7471.13,5
+2003,Electronic City,1437,5,3,7190.61,3
+2004,Indira Nagar,1316,4,2,12398.32,5
+2005,Whitefield,1650,2,2,10140.36,3
+2006,Electronic City,1645,2,1,7569.05,2
+2007,HSR Layout,1668,5,3,11432.82,4
+2008,Marathahalli,682,3,1,3162.73,1
+2009,Marathahalli,1892,1,3,12178.12,4
+2010,Indira Nagar,1277,3,1,8908.65,4
+2011,Electronic City,1689,4,3,7844.14,3
+2012,Electronic City,1334,2,2,7267.05,5
+2013,Koramangala,1552,1,3,9333.56,1
+2014,BTM Layout,1101,3,3,5181.15,5
+2015,Whitefield,1349,1,2,7472.28,1
+2016,HSR Layout,1652,5,1,7947.75,5
+2017,Electronic City,1669,1,1,9454.83,4
+2018,Jayanagar,1004,5,3,8924.59,4
+2019,HSR Layout,1593,2,0,12809.13,2
+2020,Marathahalli,838,2,2,3958.25,1
+2021,Indira Nagar,1510,3,0,10665.3,4
+2022,HSR Layout,1268,3,1,9758.37,4
+2023,BTM Layout,1611,4,3,11025.43,2
+2024,HSR Layout,1670,4,3,14085.19,3
+2025,BTM Layout,1577,3,2,8245.14,1
+2026,Jayanagar,937,2,2,8149.47,2
+2027,Marathahalli,1124,4,0,4086.78,2
+2028,Koramangala,1308,5,1,12243.72,3
+2029,Electronic City,851,1,0,3500.28,2
+2030,Electronic City,1427,5,0,7820.73,1
+2031,BTM Layout,1531,4,3,11050.86,3
+2032,Electronic City,1189,4,3,6950.29,5
+2033,Koramangala,1184,2,1,11414.05,1
+2034,HSR Layout,1677,1,3,11735.54,5
+2035,Koramangala,1938,2,3,18117.23,5
+2036,Koramangala,1524,4,3,14455.93,4
+2037,Koramangala,937,4,3,6786.1,2
+2038,HSR Layout,1609,4,0,11960.25,4
+2039,Koramangala,1925,4,3,19657.45,5
+2040,Marathahalli,1277,4,0,7625.37,5
+2041,HSR Layout,954,3,3,5944.05,3
+2042,HSR Layout,1381,1,0,7184.47,4
+2043,Whitefield,1468,3,1,8939.53,1
+2044,Whitefield,1991,5,1,10594.06,5
+2045,Koramangala,1945,3,1,16868.66,5
+2046,HSR Layout,981,4,2,7927.33,3
+2047,Marathahalli,1211,2,3,4882.53,2
+2048,Indira Nagar,1760,3,0,10238.05,3
+2049,Indira Nagar,1194,5,0,7105.18,4
+2050,BTM Layout,1981,5,3,14887.05,5
+2051,Whitefield,1559,2,3,6153.35,4
+2052,Whitefield,1050,5,1,5577.75,4
+2053,Marathahalli,869,4,1,3053.62,3
+2054,Whitefield,762,2,3,3421.44,2
+2055,Marathahalli,1340,1,0,5658.93,4
+2056,HSR Layout,903,3,0,5097.71,2
+2057,Jayanagar,1661,1,0,11395.29,2
+2058,Jayanagar,1152,3,0,8937.88,5
+2059,Electronic City,733,2,1,2625.66,1
+2060,Jayanagar,1150,1,1,7714.46,5
+2061,Koramangala,1034,4,3,9569.56,2
+2062,Electronic City,1270,5,0,6232.26,2
+2063,Koramangala,1677,3,0,12001.69,2
+2064,Jayanagar,1368,1,1,12313.11,2
+2065,Marathahalli,1754,5,1,9516.95,4
+2066,Whitefield,1478,4,3,8166.43,2
+2067,Indira Nagar,1249,1,2,10150.03,3
+2068,Electronic City,1125,1,0,5331.76,3
+2069,Jayanagar,1694,1,1,10193.89,2
+2070,BTM Layout,1432,3,0,8355.57,4
+2071,Whitefield,844,4,1,4662.3,3
+2072,Koramangala,1598,1,1,14154.27,2
+2073,BTM Layout,1026,1,2,4919.44,2
+2074,Koramangala,1101,5,0,6528.5,1
+2075,Koramangala,938,3,0,9657.02,2
+2076,Electronic City,789,4,1,2789.73,2
+2077,BTM Layout,1151,3,2,5086.55,5
+2078,Electronic City,1243,5,2,4297.73,4
+2079,Jayanagar,705,4,3,4737.56,1
+2080,HSR Layout,1229,5,0,6188.2,3
+2081,Electronic City,1234,2,1,5168.35,2
+2082,Koramangala,1287,5,3,7522.73,5
+2083,Indira Nagar,981,2,1,7905.64,2
+2084,Whitefield,895,2,2,4355.49,2
+2085,BTM Layout,1266,3,3,5593.06,1
+2086,Marathahalli,1759,1,0,11282.52,5
+2087,Marathahalli,1879,3,1,10128.58,5
+2088,Jayanagar,1431,3,0,10617.84,2
+2089,Electronic City,624,1,1,1988.23,1
+2090,Jayanagar,1896,3,1,12597.98,5
+2091,Indira Nagar,1492,1,2,11227.66,1
+2092,HSR Layout,688,5,3,3549.59,1
+2093,Marathahalli,1578,1,2,9582.46,3
+2094,Electronic City,1158,3,3,6309.88,3
+2095,Jayanagar,1242,3,0,9094.4,1
+2096,HSR Layout,1381,1,0,7534.07,4
+2097,Whitefield,1657,1,2,11475.72,5
+2098,BTM Layout,1963,2,2,9960.25,5
+2099,HSR Layout,1532,1,0,10585.2,2
+2100,Marathahalli,1264,1,1,6092.67,5
+2101,Koramangala,879,4,1,5076.87,3
+2102,Indira Nagar,1251,4,0,7641.99,5
+2103,Jayanagar,1040,1,2,5926.24,5
+2104,Marathahalli,815,2,1,5038.11,1
+2105,Marathahalli,1694,5,1,10264.0,2
+2106,Jayanagar,1023,4,2,8870.74,4
+2107,Indira Nagar,1816,2,1,16149.93,4
+2108,BTM Layout,1418,3,3,8887.66,1
+2109,Whitefield,1678,5,1,7781.7,4
+2110,Jayanagar,1940,2,3,10223.34,5
+2111,Whitefield,1473,5,3,7849.96,2
+2112,Marathahalli,1327,4,3,5499.32,1
+2113,Whitefield,1583,4,3,6135.3,5
+2114,Indira Nagar,1477,1,0,11177.52,5
+2115,Koramangala,1165,5,2,11253.64,3
+2116,Electronic City,1005,2,1,3936.83,5
+2117,Electronic City,1325,2,0,4708.33,5
+2118,Indira Nagar,609,4,1,3472.9,1
+2119,Marathahalli,1674,4,1,6187.98,2
+2120,Marathahalli,1690,4,1,6179.95,3
+2121,Whitefield,837,4,2,5423.01,2
+2122,Marathahalli,1390,1,3,5709.86,4
+2123,Marathahalli,1265,5,2,7117.46,4
+2124,BTM Layout,1229,5,1,5595.03,1
+2125,Indira Nagar,639,5,1,4910.84,1
+2126,Indira Nagar,1328,3,2,12570.69,3
+2127,Electronic City,1579,3,3,6786.83,2
+2128,Indira Nagar,708,1,1,5623.2,1
+2129,Electronic City,812,5,3,3332.62,3
+2130,Koramangala,1730,2,2,16495.39,4
+2131,Indira Nagar,827,3,1,6167.59,2
+2132,BTM Layout,1224,2,1,7633.45,3
+2133,Electronic City,1528,2,0,5675.91,5
+2134,Whitefield,1098,1,0,4765.49,5
+2135,Whitefield,943,3,2,6259.6,2
+2136,Electronic City,974,3,2,5560.0,2
+2137,HSR Layout,707,3,2,4088.72,1
+2138,Koramangala,1703,5,0,11109.79,4
+2139,HSR Layout,1357,1,3,7510.86,5
+2140,Electronic City,1091,4,2,4167.51,2
+2141,Koramangala,1110,2,0,7838.7,4
+2142,Koramangala,1323,2,1,13098.43,1
+2143,HSR Layout,1051,3,1,5411.07,1
+2144,Whitefield,1708,2,2,8506.21,5
+2145,Electronic City,1320,3,0,5945.96,1
+2146,Whitefield,1410,3,2,8029.08,5
+2147,HSR Layout,1666,4,1,13617.47,5
+2148,Indira Nagar,1497,3,3,10858.19,3
+2149,BTM Layout,1549,3,0,7948.61,3
+2150,BTM Layout,1327,3,1,7330.02,3
+2151,HSR Layout,1047,5,0,6456.92,4
+2152,BTM Layout,1606,4,3,9024.79,3
+2153,HSR Layout,1845,5,0,14978.48,5
+2154,Electronic City,930,2,3,5197.54,4
+2155,Koramangala,1557,5,3,10621.17,5
+2156,Jayanagar,922,5,2,5913.93,1
+2157,BTM Layout,766,5,0,5129.83,2
+2158,BTM Layout,964,5,3,4160.23,4
+2159,Koramangala,949,4,0,9738.49,1
+2160,Whitefield,1871,3,1,11954.55,4
+2161,Whitefield,1549,4,1,6120.0,3
+2162,Marathahalli,1274,2,1,7203.12,2
+2163,Jayanagar,1091,4,1,6885.08,3
+2164,Marathahalli,849,1,3,3593.93,2
+2165,Koramangala,1135,4,1,11173.6,5
+2166,Koramangala,1219,1,1,11476.5,3
+2167,Electronic City,745,5,1,2844.84,1
+2168,Jayanagar,1214,2,1,9186.36,5
+2169,Jayanagar,1594,4,2,11639.58,4
+2170,BTM Layout,1352,4,3,10385.43,3
+2171,HSR Layout,841,3,3,5219.92,3
+2172,BTM Layout,968,1,0,5589.51,4
+2173,HSR Layout,1055,4,1,6034.55,2
+2174,Whitefield,870,2,1,5561.19,1
+2175,Electronic City,1149,3,0,5868.14,4
+2176,Koramangala,1021,5,0,8470.8,1
+2177,Marathahalli,1540,2,1,7068.52,5
+2178,Electronic City,1160,1,3,5178.58,2
+2179,Whitefield,972,4,1,4992.26,4
+2180,Indira Nagar,908,1,0,5287.55,2
+2181,Whitefield,1554,3,1,8544.59,5
+2182,Electronic City,1964,2,3,6340.58,5
+2183,Whitefield,999,4,2,4460.36,2
+2184,BTM Layout,1666,1,2,9133.28,3
+2185,Marathahalli,1150,2,2,7359.16,3
+2186,Marathahalli,1271,2,1,4870.85,1
+2187,Whitefield,1343,3,0,6233.57,5
+2188,Electronic City,1312,1,0,6513.35,3
+2189,Whitefield,853,5,3,5319.87,3
+2190,BTM Layout,674,5,2,4366.06,1
+2191,BTM Layout,704,2,2,2967.85,1
+2192,HSR Layout,1312,1,0,10588.76,1
+2193,Marathahalli,1750,5,0,7671.82,3
+2194,HSR Layout,1631,3,1,7522.97,2
+2195,BTM Layout,855,5,3,4886.64,1
+2196,BTM Layout,1335,2,0,7071.41,4
+2197,HSR Layout,1484,1,3,7577.72,5
+2198,Electronic City,1294,2,1,7003.41,3
+2199,Indira Nagar,1655,2,0,12221.99,2
+2200,BTM Layout,1857,2,1,8376.96,5
+2201,HSR Layout,785,3,2,5586.92,1
+2202,Koramangala,1924,4,2,17769.8,5
+2203,Jayanagar,1766,3,2,9548.19,3
+2204,BTM Layout,1005,1,3,5715.81,1
+2205,Whitefield,1661,3,0,10764.15,4
+2206,Jayanagar,819,3,2,6189.42,2
+2207,Marathahalli,1378,5,1,7968.02,5
+2208,Jayanagar,1885,5,0,11061.02,4
+2209,Whitefield,1891,1,0,11903.75,5
+2210,Indira Nagar,957,1,1,6825.71,1
+2211,Koramangala,993,1,1,8192.12,2
+2212,Jayanagar,1102,3,1,9923.78,2
+2213,Jayanagar,1543,3,3,10971.99,3
+2214,Koramangala,1950,3,2,18810.39,5
+2215,Indira Nagar,1455,5,1,11309.07,2
+2216,Electronic City,1246,4,1,3967.54,3
+2217,BTM Layout,1465,2,0,8682.57,3
+2218,Indira Nagar,709,3,3,5860.63,1
+2219,Jayanagar,864,5,1,4522.55,3
+2220,Marathahalli,1816,3,0,6853.16,5
+2221,BTM Layout,1317,2,2,9302.13,1
+2222,Whitefield,1080,1,1,7172.27,2
+2223,Koramangala,1193,5,1,9509.53,5
+2224,Electronic City,1062,1,1,6132.69,3
+2225,Electronic City,1089,2,3,6318.85,3
+2226,HSR Layout,1401,5,2,9723.99,2
+2227,Indira Nagar,1453,2,0,12753.89,3
+2228,BTM Layout,1574,2,0,11878.56,3
+2229,Jayanagar,1744,3,3,13164.97,4
+2230,Marathahalli,1088,5,1,5495.93,5
+2231,HSR Layout,1588,2,0,7316.95,5
+2232,HSR Layout,1202,2,2,6712.58,2
+2233,Jayanagar,1485,2,2,8506.93,2
+2234,Whitefield,1415,2,3,8864.64,3
+2235,Jayanagar,1852,3,2,15622.45,4
+2236,HSR Layout,1550,1,0,12394.53,2
+2237,HSR Layout,1437,4,1,7117.5,2
+2238,Electronic City,1978,5,3,9455.86,5
+2239,Whitefield,1478,4,1,7760.03,1
+2240,Electronic City,1004,2,1,5165.2,5
+2241,Whitefield,827,4,0,5182.84,1
+2242,Marathahalli,834,2,3,4202.23,3
+2243,BTM Layout,1505,3,1,7878.03,4
+2244,Jayanagar,615,5,3,3955.74,1
+2245,Marathahalli,1064,5,0,6168.42,1
+2246,Electronic City,1147,5,1,6418.3,4
+2247,Jayanagar,1986,4,0,11709.41,5
+2248,Whitefield,729,2,1,4641.71,2
+2249,Whitefield,1163,2,0,6107.06,3
+2250,BTM Layout,1620,5,0,6820.41,4
+2251,Indira Nagar,747,2,1,5944.83,1
+2252,Jayanagar,930,1,3,6771.09,3
+2253,Marathahalli,1035,1,0,5377.23,3
+2254,Marathahalli,1897,2,0,11723.55,5
+2255,HSR Layout,1099,1,3,8117.16,2
+2256,Jayanagar,1390,3,1,10915.21,2
+2257,BTM Layout,1645,5,3,11331.68,2
+2258,BTM Layout,981,3,0,6488.81,1
+2259,HSR Layout,801,2,2,4304.61,2
+2260,Marathahalli,1619,3,2,8591.45,4
+2261,Indira Nagar,1778,4,0,17016.39,3
+2262,Whitefield,1144,1,0,7863.02,3
+2263,Marathahalli,906,2,3,4132.58,3
+2264,Indira Nagar,1227,4,3,9181.7,5
+2265,Marathahalli,842,1,2,2999.02,3
+2266,Electronic City,1684,1,1,9342.82,4
+2267,Marathahalli,1575,5,0,7923.82,4
+2268,BTM Layout,1291,5,0,8627.12,5
+2269,BTM Layout,1707,2,0,8569.41,5
+2270,Electronic City,1215,5,3,5603.64,4
+2271,HSR Layout,1695,1,2,11175.34,4
+2272,BTM Layout,861,2,1,3651.2,1
+2273,Jayanagar,1309,1,3,11776.06,4
+2274,Jayanagar,1173,2,1,8861.89,4
+2275,Indira Nagar,898,4,1,7724.78,1
+2276,Jayanagar,1161,3,0,6685.61,1
+2277,Jayanagar,1870,5,2,11582.05,5
+2278,Koramangala,1793,4,0,15054.71,5
+2279,Jayanagar,930,1,1,7121.68,4
+2280,Marathahalli,1133,2,1,7355.61,1
+2281,Koramangala,1354,4,1,8126.26,5
+2282,Koramangala,1316,4,0,11546.82,3
+2283,HSR Layout,1471,3,0,9567.58,3
+2284,Marathahalli,1665,2,2,7841.88,4
+2285,Whitefield,1520,4,1,10094.47,3
+2286,BTM Layout,1800,4,0,8349.59,3
+2287,Koramangala,1493,1,3,14241.66,5
+2288,HSR Layout,1322,3,3,11092.13,2
+2289,Electronic City,1463,3,2,5408.52,1
+2290,Electronic City,1214,4,1,4264.05,2
+2291,Electronic City,904,5,3,2993.89,3
+2292,Indira Nagar,1005,2,3,8779.78,2
+2293,Indira Nagar,1381,2,0,7382.47,5
+2294,Indira Nagar,1107,2,0,7775.79,5
+2295,HSR Layout,1056,3,0,5104.73,1
+2296,BTM Layout,779,4,2,4178.0,1
+2297,Marathahalli,1804,3,2,7586.74,5
+2298,HSR Layout,1116,3,0,6671.08,3
+2299,Koramangala,1242,5,2,12559.4,5
+2300,Jayanagar,1532,2,0,10259.17,2
+2301,Whitefield,1173,5,2,4599.5,4
+2302,Whitefield,1891,5,0,13284.98,4
+2303,Koramangala,1400,5,3,13797.13,4
+2304,BTM Layout,1916,2,2,14199.02,5
+2305,Marathahalli,1078,3,0,5708.36,3
+2306,BTM Layout,1181,2,1,8459.1,2
+2307,Indira Nagar,1254,2,0,9703.71,2
+2308,Whitefield,1280,2,0,7234.11,3
+2309,BTM Layout,1023,3,1,6673.27,2
+2310,Marathahalli,630,4,2,2220.05,1
+2311,HSR Layout,1350,3,0,6668.71,5
+2312,Jayanagar,982,3,2,8197.6,3
+2313,HSR Layout,750,4,0,4419.7,2
+2314,BTM Layout,1505,5,3,7669.4,4
+2315,Jayanagar,1274,1,2,9189.99,3
+2316,Whitefield,1092,4,3,5354.65,3
+2317,HSR Layout,1490,5,2,11045.21,5
+2318,BTM Layout,1451,4,2,6613.38,5
+2319,Jayanagar,1021,2,1,6138.56,2
+2320,Marathahalli,1020,3,0,5305.65,3
+2321,HSR Layout,1751,4,1,10523.28,3
+2322,HSR Layout,643,3,1,3525.32,1
+2323,Indira Nagar,1989,4,2,14446.74,5
+2324,Electronic City,1394,4,3,7406.65,3
+2325,BTM Layout,692,3,1,4226.71,1
+2326,Marathahalli,1305,3,2,4796.0,2
+2327,Whitefield,1044,5,0,5444.13,2
+2328,Whitefield,1305,1,0,8608.15,1
+2329,BTM Layout,1107,1,1,5261.79,1
+2330,Jayanagar,1548,3,2,9390.65,1
+2331,BTM Layout,1140,1,3,5919.08,3
+2332,BTM Layout,1286,2,1,7744.33,5
+2333,BTM Layout,1590,4,3,12106.43,1
+2334,HSR Layout,1126,4,3,5924.93,5
+2335,BTM Layout,1154,1,1,5857.6,3
+2336,Jayanagar,1297,2,2,10814.35,4
+2337,BTM Layout,897,4,1,4345.03,2
+2338,HSR Layout,864,5,0,6760.64,1
+2339,Whitefield,1997,2,1,10390.47,5
+2340,Electronic City,1767,3,3,10021.07,4
+2341,Jayanagar,1122,2,2,9817.47,2
+2342,Indira Nagar,1400,3,3,12038.52,1
+2343,Koramangala,1350,4,2,8000.91,3
+2344,BTM Layout,1154,2,0,7863.75,2
+2345,Jayanagar,1581,3,1,8506.1,4
+2346,Electronic City,907,1,0,3867.69,4
+2347,Indira Nagar,1684,4,2,13672.38,3
+2348,Marathahalli,1005,3,3,4918.77,2
+2349,Koramangala,1738,4,3,13598.12,5
+2350,BTM Layout,1809,3,3,9912.28,5
+2351,BTM Layout,749,5,3,3289.21,2
+2352,Indira Nagar,1164,2,2,6527.17,2
+2353,Indira Nagar,1350,1,3,8831.04,5
+2354,Jayanagar,1063,4,1,8686.91,2
+2355,Indira Nagar,1362,3,2,11571.66,2
+2356,Whitefield,1257,4,3,8398.74,2
+2357,Indira Nagar,1202,2,2,7070.23,2
+2358,Marathahalli,1124,1,3,5742.88,1
+2359,Electronic City,942,5,2,3476.9,4
+2360,Indira Nagar,992,2,1,9280.5,2
+2361,Marathahalli,1438,3,3,5391.12,1
+2362,BTM Layout,1357,3,2,10327.21,2
+2363,Whitefield,1494,1,1,6336.6,4
+2364,BTM Layout,1388,4,2,6404.3,3
+2365,Koramangala,1458,4,0,12052.19,5
+2366,BTM Layout,1858,3,1,10560.82,5
+2367,Jayanagar,955,4,3,8532.49,4
+2368,Koramangala,1901,4,0,18383.05,5
+2369,Jayanagar,1730,3,0,14016.64,4
+2370,Whitefield,1557,3,2,10675.53,4
+2371,HSR Layout,1790,4,3,13662.76,4
+2372,Indira Nagar,1738,4,3,10848.47,5
+2373,HSR Layout,1251,2,2,7893.61,1
+2374,Whitefield,1300,3,3,9002.37,5
+2375,Electronic City,910,1,1,4041.02,3
+2376,Jayanagar,1581,4,3,7803.31,1
+2377,Jayanagar,795,5,2,6926.09,1
+2378,Jayanagar,769,1,1,6568.39,1
+2379,Indira Nagar,1025,5,3,7464.81,1
+2380,Jayanagar,878,1,3,7092.95,1
+2381,BTM Layout,775,3,0,4672.74,2
+2382,Koramangala,817,3,3,4834.09,3
+2383,Indira Nagar,1305,1,0,9182.65,3
+2384,Electronic City,1021,4,0,4284.94,3
+2385,Koramangala,838,5,0,5448.74,2
+2386,Whitefield,1362,1,3,7941.56,4
+2387,HSR Layout,1485,4,3,9746.54,3
+2388,Jayanagar,1049,5,2,8968.28,3
+2389,Jayanagar,1870,1,2,10500.28,4
+2390,BTM Layout,1090,1,0,4978.74,3
+2391,HSR Layout,723,4,2,4065.79,1
+2392,BTM Layout,1146,4,2,5987.77,5
+2393,Electronic City,989,2,3,3484.95,2
+2394,Electronic City,808,4,0,2955.53,3
+2395,BTM Layout,710,2,1,3118.74,1
+2396,HSR Layout,1947,3,0,9969.32,5
+2397,Jayanagar,1081,5,1,7038.75,1
+2398,Koramangala,1498,5,2,12889.27,2
+2399,Koramangala,1047,2,1,9409.4,4
+2400,HSR Layout,1688,4,3,9678.59,4
+2401,Jayanagar,1644,2,1,12517.84,4
+2402,Koramangala,1231,1,2,12605.35,1
+2403,Marathahalli,943,3,3,4830.78,4
+2404,Electronic City,1328,3,3,5233.89,2
+2405,Jayanagar,1354,2,1,9748.9,5
+2406,BTM Layout,1264,4,1,8505.34,3
+2407,Jayanagar,1869,4,1,13251.34,5
+2408,BTM Layout,814,3,0,3738.05,2
+2409,Marathahalli,1081,1,1,4895.01,5
+2410,Koramangala,1261,5,3,10204.87,2
+2411,HSR Layout,1571,3,0,10148.61,5
+2412,Whitefield,1448,5,1,7871.11,1
+2413,Jayanagar,976,3,2,5152.56,4
+2414,HSR Layout,1693,4,2,13384.48,2
+2415,Jayanagar,1599,4,3,8117.68,1
+2416,Whitefield,645,1,2,3399.84,1
+2417,Koramangala,1578,3,0,9748.96,5
+2418,Marathahalli,1629,2,0,6528.08,3
+2419,Electronic City,863,3,2,3939.58,3
+2420,Jayanagar,1326,4,0,9453.79,1
+2421,Marathahalli,1699,1,3,9464.87,2
+2422,Whitefield,1695,1,1,11285.87,3
+2423,Indira Nagar,1354,2,3,7566.0,3
+2424,Electronic City,1896,3,0,6773.04,5
+2425,Indira Nagar,1349,1,3,12881.28,4
+2426,Jayanagar,1861,3,3,10641.98,5
+2427,BTM Layout,1667,4,2,9109.56,3
+2428,HSR Layout,1463,3,1,8744.45,4
+2429,Indira Nagar,1276,4,3,9950.0,4
+2430,BTM Layout,1395,2,3,10174.94,3
+2431,Electronic City,1399,2,0,7069.29,1
+2432,Electronic City,1711,1,3,5895.24,5
+2433,Indira Nagar,938,2,1,6784.67,2
+2434,HSR Layout,1021,3,2,7225.07,5
+2435,HSR Layout,1448,2,0,8823.6,5
+2436,Marathahalli,1448,2,3,5979.84,3
+2437,HSR Layout,1239,3,2,9270.77,5
+2438,Whitefield,967,4,2,5009.2,3
+2439,Jayanagar,1131,1,2,9802.6,3
+2440,Whitefield,1575,5,2,9242.5,1
+2441,Jayanagar,1764,2,3,13008.63,5
+2442,Indira Nagar,1594,4,1,8415.29,5
+2443,HSR Layout,1199,1,0,5574.39,3
+2444,Whitefield,1152,1,0,7766.36,3
+2445,Koramangala,1581,4,2,9642.86,5
+2446,Whitefield,700,1,1,2948.87,1
+2447,Jayanagar,1259,2,2,6685.82,3
+2448,Electronic City,1244,3,0,4508.94,4
+2449,Whitefield,623,2,0,3500.94,1
+2450,BTM Layout,1516,5,2,7586.11,3
+2451,BTM Layout,1630,4,3,12308.67,5
+2452,Indira Nagar,1028,2,1,9196.25,5
+2453,Marathahalli,1964,5,3,7452.34,5
+2454,Electronic City,1097,5,1,5843.76,2
+2455,Jayanagar,1253,1,0,8235.95,2
+2456,HSR Layout,1042,1,0,8633.11,1
+2457,Whitefield,1540,1,1,9935.35,2
+2458,BTM Layout,1318,4,1,6411.97,3
+2459,Electronic City,1320,2,2,6102.54,1
+2460,Whitefield,1332,4,3,8373.71,2
+2461,Whitefield,1712,5,3,10968.25,3
+2462,Indira Nagar,1030,2,3,6941.77,3
+2463,Electronic City,672,1,3,2539.49,1
+2464,Jayanagar,691,5,2,3432.13,1
+2465,HSR Layout,1578,2,1,7186.03,1
+2466,Jayanagar,1040,2,1,9146.5,5
+2467,BTM Layout,1108,1,2,6848.32,3
+2468,Electronic City,1489,4,2,7880.28,3
+2469,Jayanagar,1466,4,2,11230.63,2
+2470,Koramangala,1212,1,2,7104.18,2
+2471,Koramangala,828,3,2,6426.95,2
+2472,Electronic City,1044,2,1,5360.81,2
+2473,Indira Nagar,1433,1,2,8578.47,1
+2474,Marathahalli,1695,5,0,9715.74,5
+2475,Koramangala,1166,4,0,11465.21,5
+2476,Electronic City,1696,2,2,5450.49,2
+2477,HSR Layout,707,2,1,3783.97,1
+2478,Koramangala,863,5,3,4845.69,1
+2479,Whitefield,855,2,2,4543.57,3
+2480,Jayanagar,1876,1,2,9521.78,5
+2481,Jayanagar,1266,2,1,8172.02,3
+2482,Marathahalli,660,5,3,3587.8,1
+2483,BTM Layout,1228,1,1,7416.41,4
+2484,Indira Nagar,1406,2,3,11872.14,3
+2485,Marathahalli,1622,5,1,8093.65,3
+2486,Jayanagar,942,2,1,5581.28,4
+2487,BTM Layout,1687,3,0,11692.49,3
+2488,Whitefield,1260,3,1,7387.99,4
+2489,Koramangala,962,4,0,5887.76,3
+2490,Koramangala,972,2,2,6141.62,4
+2491,BTM Layout,1451,4,2,7704.42,4
+2492,Electronic City,1554,4,3,5765.11,3
+2493,BTM Layout,1084,1,1,5980.33,5
+2494,BTM Layout,1114,4,2,7784.82,1
+2495,BTM Layout,965,1,3,7020.13,4
+2496,HSR Layout,1375,3,0,9019.39,5
+2497,Electronic City,1160,5,0,6331.91,2
+2498,HSR Layout,1215,2,1,8589.32,5
+2499,Koramangala,1281,3,1,8316.13,3
+2500,Electronic City,1583,3,0,7267.74,5
+2501,Marathahalli,1341,1,3,7481.74,4
+2502,Marathahalli,1234,3,0,7149.13,5
+2503,Jayanagar,1313,4,3,9803.57,3
+2504,Electronic City,1928,4,2,8426.9,5
+2505,Electronic City,966,5,1,3358.01,3
+2506,Indira Nagar,1576,5,0,9137.07,3
+2507,HSR Layout,1588,4,2,11909.56,2
+2508,Jayanagar,1753,4,1,10939.83,4
+2509,Jayanagar,1735,3,3,15415.66,5
+2510,HSR Layout,1409,2,0,9179.93,1
+2511,Marathahalli,1772,2,0,9357.47,4
+2512,Koramangala,734,3,2,6030.22,2
+2513,Indira Nagar,1346,3,3,10952.65,3
+2514,HSR Layout,1687,1,2,10573.99,4
+2515,Marathahalli,1400,3,2,8574.75,5
+2516,Jayanagar,1683,1,0,10266.74,5
+2517,Whitefield,723,1,0,3534.29,1
+2518,Koramangala,1438,3,3,11001.37,2
+2519,Indira Nagar,1099,3,2,6228.97,3
+2520,BTM Layout,624,4,0,3469.62,1
+2521,Marathahalli,1405,2,0,7655.81,5
+2522,Jayanagar,1272,1,3,6570.36,4
+2523,Whitefield,1004,5,1,4189.24,1
+2524,Jayanagar,1008,5,1,8807.45,1
+2525,Koramangala,957,4,1,9376.21,2
+2526,Jayanagar,1042,5,1,7337.23,5
+2527,Whitefield,1160,2,3,7080.24,2
+2528,Jayanagar,1443,1,2,9537.66,5
+2529,BTM Layout,1891,3,1,9069.29,4
+2530,Jayanagar,1774,4,2,13990.35,4
+2531,Marathahalli,1248,2,2,4982.9,1
+2532,Electronic City,1839,1,2,10417.24,5
+2533,Whitefield,1584,3,2,7756.79,5
+2534,Indira Nagar,648,2,3,4488.92,1
+2535,Electronic City,1525,2,2,5309.7,5
+2536,Whitefield,1432,2,3,8828.72,3
+2537,Jayanagar,1003,1,1,6574.15,2
+2538,Jayanagar,1403,3,1,9131.15,4
+2539,Indira Nagar,1289,1,3,8106.13,1
+2540,Electronic City,1346,2,2,6501.19,5
+2541,BTM Layout,992,1,0,6815.07,1
+2542,Electronic City,1031,3,3,4539.73,3
+2543,Marathahalli,1469,5,0,8915.8,5
+2544,Indira Nagar,1090,5,2,7193.52,5
+2545,Marathahalli,1270,3,0,7750.89,3
+2546,HSR Layout,1505,5,0,7386.67,1
+2547,BTM Layout,1769,2,3,10016.18,3
+2548,Whitefield,981,1,1,6912.15,3
+2549,HSR Layout,1687,2,2,13794.91,2
+2550,Koramangala,1447,4,0,9670.93,3
+2551,Indira Nagar,1234,3,0,9508.41,1
+2552,Marathahalli,1454,5,0,5317.24,4
+2553,BTM Layout,1235,1,3,8520.56,5
+2554,HSR Layout,1374,1,2,9478.51,1
+2555,Koramangala,1222,1,3,9779.05,4
+2556,Indira Nagar,1044,5,0,8484.77,4
+2557,Whitefield,1483,2,0,9351.64,1
+2558,Electronic City,1363,3,2,5117.48,1
+2559,BTM Layout,1379,5,0,9513.98,4
+2560,Koramangala,1993,3,1,12888.8,5
+2561,Marathahalli,1425,5,2,7991.0,2
+2562,Marathahalli,1397,5,0,4890.09,5
+2563,Whitefield,1725,3,3,7917.38,3
+2564,Marathahalli,1640,1,2,7210.64,4
+2565,BTM Layout,1430,4,2,7708.57,5
+2566,Marathahalli,1520,2,2,8664.95,4
+2567,BTM Layout,1498,1,3,11669.64,1
+2568,Electronic City,1216,5,1,4020.1,5
+2569,Jayanagar,1361,2,2,10705.41,1
+2570,Marathahalli,1455,2,0,6511.44,4
+2571,BTM Layout,1435,4,2,8039.01,1
+2572,Whitefield,1164,5,1,4506.37,2
+2573,Marathahalli,1212,1,1,4369.82,1
+2574,Indira Nagar,1539,1,3,8902.55,5
+2575,Electronic City,1661,4,1,6746.58,3
+2576,BTM Layout,1465,5,0,8065.33,4
+2577,Electronic City,1408,2,3,7745.24,2
+2578,Indira Nagar,1160,3,2,6933.98,1
+2579,HSR Layout,1177,3,2,9386.67,4
+2580,Whitefield,1886,4,1,11267.73,5
+2581,Koramangala,1175,4,2,9789.63,2
+2582,Whitefield,1443,2,0,8602.34,4
+2583,Marathahalli,1417,5,0,5929.38,1
+2584,Marathahalli,1939,4,1,11606.14,5
+2585,Indira Nagar,902,3,3,7194.1,1
+2586,Whitefield,1993,4,2,10176.94,5
+2587,BTM Layout,1263,2,1,9482.87,4
+2588,Electronic City,1040,2,2,5848.32,5
+2589,Marathahalli,1214,5,2,7147.06,3
+2590,BTM Layout,1019,2,3,4291.57,3
+2591,Marathahalli,973,1,0,5631.43,1
+2592,Electronic City,1321,1,1,5565.04,5
+2593,HSR Layout,1953,2,2,12313.58,5
+2594,HSR Layout,1465,3,2,10469.09,5
+2595,HSR Layout,1549,4,2,12890.65,1
+2596,Indira Nagar,1487,5,0,12304.82,1
+2597,Whitefield,1228,3,0,8271.04,1
+2598,Marathahalli,1756,1,0,9145.59,4
+2599,Whitefield,1701,1,0,10611.53,3
+2600,Jayanagar,1404,3,1,9201.91,5
+2601,HSR Layout,1646,1,0,10202.23,3
+2602,BTM Layout,954,1,1,5638.32,2
+2603,Indira Nagar,1042,1,0,8488.85,1
+2604,Marathahalli,1161,2,3,5318.36,1
+2605,HSR Layout,1009,5,3,6091.2,2
+2606,Marathahalli,1007,4,0,5419.19,1
+2607,Marathahalli,971,5,0,5434.08,4
+2608,Marathahalli,1117,1,0,6261.16,1
+2609,Whitefield,1482,2,0,9599.99,5
+2610,Koramangala,1258,4,2,8173.47,3
+2611,BTM Layout,1224,5,2,5545.34,5
+2612,Whitefield,963,3,0,6112.0,1
+2613,HSR Layout,1231,1,3,8539.6,3
+2614,Whitefield,1594,2,3,6773.73,5
+2615,Electronic City,1787,2,1,6457.27,5
+2616,Whitefield,1545,2,2,10525.22,5
+2617,Jayanagar,1924,2,2,11770.89,5
+2618,BTM Layout,1670,1,3,7426.48,3
+2619,Electronic City,1884,5,3,6014.56,4
+2620,Electronic City,1368,5,3,7923.28,4
+2621,BTM Layout,896,2,0,5568.22,3
+2622,HSR Layout,696,2,2,3297.26,1
+2623,Whitefield,1016,4,0,5914.32,1
+2624,Marathahalli,648,5,0,2726.9,1
+2625,Electronic City,1260,4,0,4468.51,3
+2626,Indira Nagar,1376,5,1,12643.41,2
+2627,Whitefield,1702,3,0,11688.42,4
+2628,HSR Layout,1740,5,2,8209.77,4
+2629,Jayanagar,1768,3,2,14750.62,3
+2630,Whitefield,1181,3,1,5194.59,2
+2631,Koramangala,1346,5,2,12661.51,4
+2632,HSR Layout,1601,4,3,8981.97,3
+2633,BTM Layout,842,5,1,4133.19,3
+2634,Jayanagar,1387,5,0,8855.73,3
+2635,Koramangala,900,1,3,7555.22,4
+2636,HSR Layout,1002,3,1,7416.42,2
+2637,Indira Nagar,1123,3,3,7919.05,5
+2638,Electronic City,906,2,0,4444.96,2
+2639,Electronic City,1454,5,0,7711.79,1
+2640,BTM Layout,1615,1,1,9403.81,4
+2641,Electronic City,1377,1,1,4410.42,1
+2642,BTM Layout,1006,3,2,5207.88,1
+2643,Koramangala,1504,5,3,9451.33,2
+2644,Jayanagar,872,3,3,4516.97,3
+2645,Indira Nagar,1037,4,3,8446.25,2
+2646,Indira Nagar,983,4,1,7533.69,1
+2647,Whitefield,1016,4,0,5832.41,3
+2648,Koramangala,1693,1,2,9593.23,3
+2649,HSR Layout,1247,5,0,8980.56,5
+2650,HSR Layout,961,5,0,6923.36,4
+2651,Indira Nagar,1541,4,0,13445.0,1
+2652,Whitefield,1554,3,3,8604.03,2
+2653,Marathahalli,1880,2,3,10559.89,4
+2654,Koramangala,1778,5,2,12520.4,3
+2655,Electronic City,761,2,3,3668.29,1
+2656,Electronic City,1637,5,2,6141.42,3
+2657,BTM Layout,1156,4,0,6486.11,4
+2658,BTM Layout,1035,2,3,5563.39,1
+2659,Whitefield,1057,3,3,4384.17,3
+2660,Electronic City,1499,5,1,7902.31,1
+2661,BTM Layout,1445,1,0,9216.52,2
+2662,Koramangala,945,5,2,5668.68,1
+2663,Jayanagar,1110,1,3,5475.0,4
+2664,HSR Layout,1527,4,1,11074.57,1
+2665,Koramangala,1265,3,0,11289.19,1
+2666,Whitefield,1126,1,1,5241.17,4
+2667,Indira Nagar,1103,2,1,10735.15,1
+2668,Koramangala,1633,3,2,10344.57,2
+2669,BTM Layout,1133,4,3,7544.3,2
+2670,BTM Layout,1890,1,3,11101.11,4
+2671,Electronic City,934,4,2,3047.74,2
+2672,Whitefield,1468,3,1,6690.59,3
+2673,BTM Layout,977,3,3,5766.37,2
+2674,Indira Nagar,1122,3,3,6759.29,4
+2675,BTM Layout,1703,1,2,11415.93,5
+2676,Marathahalli,1661,3,2,10191.93,5
+2677,Whitefield,1490,3,3,8984.06,1
+2678,BTM Layout,1515,1,0,10615.58,3
+2679,Whitefield,1087,5,3,6709.98,5
+2680,Marathahalli,1887,4,1,10216.73,5
+2681,HSR Layout,1304,1,0,10573.6,5
+2682,Whitefield,1309,1,0,6791.69,2
+2683,BTM Layout,1196,5,1,7695.4,2
+2684,Indira Nagar,1280,3,0,8644.21,4
+2685,Marathahalli,1600,2,3,8182.35,3
+2686,Koramangala,1334,3,2,9913.31,4
+2687,Koramangala,1171,2,0,11291.57,4
+2688,Koramangala,820,1,0,7624.09,2
+2689,Jayanagar,1462,4,2,12318.97,4
+2690,Jayanagar,1509,1,0,8896.8,3
+2691,Jayanagar,1011,1,1,7503.5,2
+2692,BTM Layout,768,2,1,5695.83,1
+2693,Indira Nagar,1742,5,3,10104.16,5
+2694,Indira Nagar,1207,5,3,7354.14,3
+2695,BTM Layout,910,4,0,4035.81,4
+2696,Whitefield,1601,3,0,10031.21,5
+2697,Koramangala,1386,5,3,12140.79,3
+2698,Jayanagar,1475,5,2,10158.79,1
+2699,Electronic City,1394,3,3,7874.3,5
+2700,Koramangala,672,1,0,4056.51,1
+2701,Electronic City,1017,4,0,5428.6,3
+2702,HSR Layout,1784,3,3,13624.7,4
+2703,Electronic City,846,3,0,2867.65,2
+2704,Indira Nagar,1451,1,2,12903.63,3
+2705,BTM Layout,1386,5,0,7576.31,3
+2706,Marathahalli,1300,1,2,5410.23,3
+2707,Whitefield,1947,4,2,8876.31,5
+2708,Whitefield,1421,1,2,7818.88,4
+2709,BTM Layout,950,1,2,5486.6,2
+2710,BTM Layout,896,5,0,6840.38,2
+2711,Koramangala,1069,5,2,6687.82,1
+2712,BTM Layout,1183,4,1,6516.3,3
+2713,Marathahalli,1133,5,3,5938.97,5
+2714,Koramangala,1499,3,3,11625.14,4
+2715,Jayanagar,713,2,1,6101.57,1
+2716,Electronic City,1644,3,1,5743.41,2
+2717,Indira Nagar,1177,1,3,6379.26,4
+2718,Whitefield,1021,3,2,7053.66,4
+2719,Whitefield,1421,2,0,10036.48,4
+2720,BTM Layout,1744,1,3,9843.49,5
+2721,Whitefield,1038,3,0,4141.14,3
+2722,Koramangala,793,3,3,6476.51,2
+2723,HSR Layout,1836,1,3,8784.14,4
+2724,Koramangala,1268,4,2,13149.72,4
+2725,Koramangala,1579,4,2,16227.22,1
+2726,Jayanagar,1619,1,2,12140.96,2
+2727,Marathahalli,1408,1,3,7099.45,4
+2728,HSR Layout,1808,5,1,9728.79,4
+2729,BTM Layout,824,4,2,5301.01,1
+2730,Electronic City,1118,4,1,4407.07,4
+2731,Koramangala,1038,3,2,10509.59,2
+2732,Electronic City,1006,2,2,3826.63,2
+2733,Whitefield,1706,4,2,7829.91,3
+2734,BTM Layout,987,5,3,7262.06,3
+2735,Koramangala,941,2,0,6434.62,4
+2736,HSR Layout,1537,4,1,10496.85,5
+2737,BTM Layout,1515,5,3,8101.25,4
+2738,Jayanagar,1684,5,2,11504.05,5
+2739,Marathahalli,1036,3,0,4241.79,1
+2740,BTM Layout,1191,5,1,6389.94,5
+2741,Marathahalli,1368,1,1,5739.01,1
+2742,Whitefield,1342,5,2,7722.92,4
+2743,Marathahalli,1203,2,3,4930.28,2
+2744,Jayanagar,1115,3,2,6779.9,4
+2745,Koramangala,1501,1,1,13856.18,2
+2746,Electronic City,1523,2,2,8115.54,4
+2747,Electronic City,778,3,2,3430.72,2
+2748,Koramangala,969,1,1,5590.91,2
+2749,Jayanagar,1405,5,3,11172.83,4
+2750,Electronic City,1023,2,3,3998.17,4
+2751,HSR Layout,1075,2,0,6704.61,3
+2752,Whitefield,1990,5,0,12352.09,5
+2753,Jayanagar,892,5,0,4522.64,3
+2754,Marathahalli,1392,1,3,6415.63,1
+2755,Electronic City,1651,3,2,5582.84,3
+2756,Indira Nagar,980,5,0,5410.07,4
+2757,Indira Nagar,1650,1,2,10765.73,4
+2758,Whitefield,1900,2,3,11456.95,4
+2759,Whitefield,1281,2,2,9107.2,2
+2760,BTM Layout,1000,5,0,7165.04,1
+2761,Whitefield,1643,3,0,11281.6,2
+2762,Koramangala,1282,5,0,13086.81,4
+2763,Electronic City,1025,4,1,4336.75,1
+2764,HSR Layout,1008,2,1,6580.38,2
+2765,Koramangala,1250,5,1,10336.44,3
+2766,HSR Layout,1147,3,0,6561.96,1
+2767,Indira Nagar,1208,1,3,9149.17,3
+2768,Electronic City,1245,2,2,5011.19,2
+2769,Whitefield,1091,4,3,4939.43,5
+2770,Koramangala,961,3,1,8942.53,3
+2771,Electronic City,1866,5,0,8053.86,5
+2772,Marathahalli,1524,2,3,6382.32,1
+2773,Whitefield,1497,4,0,7910.35,5
+2774,Marathahalli,1750,4,1,8529.32,5
+2775,Koramangala,1116,2,1,7599.52,5
+2776,Jayanagar,1603,2,3,13351.73,3
+2777,HSR Layout,1096,5,0,8960.94,3
+2778,BTM Layout,1388,5,2,9782.55,3
+2779,Jayanagar,1070,3,2,6689.55,3
+2780,BTM Layout,1727,1,0,12825.07,4
+2781,Whitefield,1049,3,1,4165.47,3
+2782,Electronic City,1198,4,2,6347.97,2
+2783,Indira Nagar,1517,2,3,11436.65,2
+2784,Jayanagar,1058,5,3,6993.88,3
+2785,Indira Nagar,1642,5,2,12241.65,2
+2786,BTM Layout,1517,1,3,7833.22,3
+2787,Marathahalli,1405,4,1,7236.05,1
+2788,Koramangala,1542,5,3,9162.6,3
+2789,HSR Layout,1352,5,1,11069.42,2
+2790,HSR Layout,944,5,3,7450.42,2
+2791,Marathahalli,960,4,2,4635.54,1
+2792,Electronic City,1331,5,2,5464.5,4
+2793,HSR Layout,956,2,3,5555.77,2
+2794,Marathahalli,1128,2,0,7150.15,3
+2795,Jayanagar,606,4,1,2984.59,1
+2796,Koramangala,1701,4,1,11752.0,5
+2797,Whitefield,1431,5,1,7959.54,3
+2798,Whitefield,1273,2,1,7615.3,3
+2799,BTM Layout,757,2,1,5346.8,1
+2800,Electronic City,1417,5,2,5087.31,5
+2801,BTM Layout,1230,1,2,8716.03,5
+2802,BTM Layout,1599,1,2,12050.4,3
+2803,HSR Layout,958,2,1,6021.07,2
+2804,Indira Nagar,1337,3,3,8288.71,1
+2805,Marathahalli,948,1,3,4044.27,3
+2806,BTM Layout,1137,4,0,7255.07,2
+2807,Electronic City,1056,4,2,4273.27,5
+2808,Jayanagar,1495,4,1,9696.8,2
+2809,Electronic City,948,5,3,3536.46,2
+2810,Whitefield,997,2,0,5495.3,2
+2811,Jayanagar,1707,5,0,12861.66,3
+2812,HSR Layout,1798,3,0,10299.84,3
+2813,Marathahalli,1423,2,1,5185.08,2
+2814,Electronic City,1025,3,2,5557.3,2
+2815,Marathahalli,902,1,3,3637.8,4
+2816,HSR Layout,830,2,3,4459.41,1
+2817,Electronic City,1298,3,2,5202.76,5
+2818,Koramangala,1771,5,0,10490.03,5
+2819,Koramangala,974,3,0,9606.58,2
+2820,Indira Nagar,1434,2,3,12132.18,2
+2821,Koramangala,994,1,2,9438.97,3
+2822,Marathahalli,1492,2,3,5311.94,5
+2823,Marathahalli,1995,4,2,12740.22,5
+2824,Koramangala,1503,5,2,8768.17,1
+2825,Koramangala,1691,5,0,11748.36,3
+2826,Electronic City,1171,5,0,5383.61,4
+2827,Indira Nagar,1685,4,2,9739.52,5
+2828,Indira Nagar,1358,5,1,10015.46,2
+2829,BTM Layout,1883,3,1,9160.52,4
+2830,BTM Layout,1442,4,0,7491.22,4
+2831,Jayanagar,1133,3,2,8095.91,4
+2832,Marathahalli,1499,2,2,5618.91,1
+2833,Whitefield,737,1,1,5091.74,1
+2834,Electronic City,1523,5,2,5112.63,5
+2835,BTM Layout,685,3,3,3913.41,1
+2836,Electronic City,1177,2,2,4465.67,4
+2837,Koramangala,1127,5,0,6482.03,5
+2838,Indira Nagar,1176,2,3,11169.24,3
+2839,Indira Nagar,1787,1,0,16948.08,5
+2840,BTM Layout,691,1,3,2976.8,1
+2841,Koramangala,1198,4,2,11790.56,3
+2842,BTM Layout,1625,4,3,12410.41,5
+2843,Electronic City,1074,3,1,5785.2,4
+2844,Jayanagar,1048,5,2,7126.66,5
+2845,Jayanagar,1469,4,2,8708.84,4
+2846,Whitefield,1102,1,0,4907.19,3
+2847,Whitefield,1394,3,0,7546.63,1
+2848,Jayanagar,1360,4,3,8039.63,4
+2849,HSR Layout,1135,2,3,8697.04,4
+2850,HSR Layout,936,4,2,7819.88,4
+2851,Whitefield,1501,4,1,9890.92,3
+2852,Whitefield,1092,5,1,5409.35,5
+2853,Koramangala,1109,1,3,6400.88,3
+2854,Marathahalli,1634,3,3,10182.82,2
+2855,Indira Nagar,1275,1,3,7813.0,3
+2856,HSR Layout,1460,1,0,12329.65,2
+2857,HSR Layout,1347,5,3,9556.49,1
+2858,Koramangala,1059,2,3,8439.24,5
+2859,Whitefield,1193,5,1,6583.35,5
+2860,Whitefield,1633,1,1,7221.16,5
+2861,Jayanagar,981,1,0,8009.7,3
+2862,Koramangala,1173,3,1,8105.7,4
+2863,Electronic City,977,1,2,5534.83,2
+2864,Whitefield,1142,2,1,6994.01,1
+2865,Indira Nagar,1471,5,3,13689.81,3
+2866,Indira Nagar,1314,5,1,10722.67,4
+2867,BTM Layout,757,1,0,3333.66,1
+2868,Marathahalli,1572,2,3,9103.66,4
+2869,Indira Nagar,803,2,0,5763.33,1
+2870,BTM Layout,1661,5,0,10374.45,5
+2871,Whitefield,1337,4,2,8402.69,3
+2872,BTM Layout,1284,2,0,7271.24,1
+2873,Indira Nagar,1399,5,1,12253.08,1
+2874,HSR Layout,996,1,1,8210.23,2
+2875,Koramangala,1650,1,2,16802.33,5
+2876,HSR Layout,1353,1,1,9000.6,4
+2877,Marathahalli,1145,1,0,4928.6,3
+2878,Electronic City,1027,2,1,4348.26,3
+2879,BTM Layout,1185,4,0,7422.32,3
+2880,Jayanagar,1733,4,2,12915.85,3
+2881,Whitefield,1598,1,0,9244.24,5
+2882,Whitefield,850,4,0,4757.22,2
+2883,HSR Layout,1309,4,2,6465.2,5
+2884,Indira Nagar,1623,1,3,10844.64,5
+2885,Whitefield,1033,2,3,5215.66,5
+2886,Marathahalli,1552,2,3,10034.39,4
+2887,Koramangala,1397,1,0,12896.5,1
+2888,Koramangala,906,2,1,5185.31,1
+2889,Koramangala,1542,3,3,11772.15,3
+2890,Indira Nagar,906,5,1,8660.54,3
+2891,BTM Layout,1250,2,0,8665.56,3
+2892,Jayanagar,1164,1,1,9483.49,5
+2893,Marathahalli,755,5,3,3573.56,1
+2894,HSR Layout,1434,2,1,8691.62,2
+2895,BTM Layout,829,5,2,6462.56,3
+2896,Electronic City,1834,4,0,6172.26,5
+2897,BTM Layout,1192,3,0,7490.78,1
+2898,Koramangala,1098,1,1,8529.28,5
+2899,HSR Layout,994,2,3,7837.99,4
+2900,Marathahalli,1199,5,1,6746.35,3
+2901,Electronic City,1863,1,2,8586.82,4
+2902,Jayanagar,931,3,1,8117.23,2
+2903,Electronic City,1482,2,1,6961.81,3
+2904,HSR Layout,1289,4,1,10578.33,1
+2905,Koramangala,1650,3,2,16853.4,5
+2906,Electronic City,1687,3,1,6183.09,3
+2907,Indira Nagar,1396,2,2,9544.12,2
+2908,Marathahalli,984,3,2,4774.36,1
+2909,Koramangala,1194,4,3,7632.83,2
+2910,Koramangala,700,5,0,5118.21,2
+2911,Whitefield,894,3,0,3539.59,2
+2912,Electronic City,1609,5,1,9355.29,2
+2913,Jayanagar,1116,5,1,6613.67,5
+2914,Electronic City,1106,3,3,4205.45,5
+2915,Koramangala,1564,2,3,11764.96,3
+2916,Electronic City,1752,4,1,10142.6,3
+2917,Whitefield,1146,1,1,4964.01,5
+2918,Koramangala,1814,3,2,14210.07,5
+2919,Jayanagar,1419,4,1,9074.18,3
+2920,Electronic City,1982,3,2,10395.15,5
+2921,Whitefield,895,2,1,4111.33,3
+2922,Koramangala,1644,4,3,15019.37,2
+2923,Electronic City,1784,3,2,8636.18,3
+2924,Marathahalli,956,4,2,5297.64,2
+2925,Koramangala,772,2,3,6137.46,2
+2926,Jayanagar,928,3,1,5718.0,2
+2927,Electronic City,1533,3,2,5133.21,4
+2928,Electronic City,1530,1,0,7282.66,5
+2929,Marathahalli,1296,3,3,7261.42,2
+2930,Jayanagar,1222,3,2,9166.35,4
+2931,Electronic City,1392,1,1,6657.91,3
+2932,Jayanagar,1417,2,0,11342.2,3
+2933,Indira Nagar,1526,1,1,10208.43,2
+2934,Jayanagar,1002,1,0,5094.54,1
+2935,HSR Layout,894,2,3,7017.76,2
+2936,HSR Layout,1359,2,0,10725.89,4
+2937,Indira Nagar,1974,3,0,14451.9,5
+2938,Electronic City,1458,1,1,5039.8,3
+2939,BTM Layout,1237,3,0,9577.48,1
+2940,Marathahalli,1495,4,2,8104.72,2
+2941,BTM Layout,1172,1,3,9092.54,4
+2942,Jayanagar,1686,2,0,10835.08,2
+2943,Marathahalli,1278,2,0,6662.31,1
+2944,Koramangala,1345,3,0,9277.88,3
+2945,Jayanagar,1310,1,3,6421.33,1
+2946,Koramangala,944,3,2,5401.2,1
+2947,Whitefield,1155,5,1,7111.01,1
+2948,Jayanagar,1420,2,3,9243.96,1
+2949,Jayanagar,1056,2,2,7960.74,3
+2950,BTM Layout,1065,5,0,8126.24,2
+2951,Electronic City,1381,3,0,6280.71,3
+2952,BTM Layout,898,1,2,5414.29,3
+2953,Marathahalli,1572,2,1,7905.11,1
+2954,HSR Layout,1348,1,3,10349.92,1
+2955,Electronic City,1636,2,3,6777.99,3
+2956,Indira Nagar,1193,1,2,11568.91,5
+2957,HSR Layout,1560,4,2,7805.24,1
+2958,Electronic City,731,1,2,3315.27,1
+2959,Jayanagar,1313,1,1,10261.7,2
+2960,Indira Nagar,655,1,1,5311.79,1
+2961,Koramangala,1641,1,0,13487.75,5
+2962,Jayanagar,728,5,0,5812.83,1
+2963,Marathahalli,844,5,3,3230.77,2
+2964,HSR Layout,858,2,0,5173.69,2
+2965,Indira Nagar,1777,1,0,11370.17,5
+2966,Marathahalli,1405,4,2,7685.34,5
+2967,Jayanagar,850,2,1,7227.18,3
+2968,Whitefield,1040,5,3,6873.07,5
+2969,Koramangala,622,4,3,3718.87,1
+2970,HSR Layout,1383,5,3,7467.38,2
+2971,Koramangala,1404,3,1,10791.66,1
+2972,Whitefield,863,3,1,6118.05,2
+2973,Indira Nagar,650,2,2,5519.09,1
+2974,HSR Layout,1730,3,0,12084.0,3
+2975,Marathahalli,1625,3,0,6686.51,3
+2976,Indira Nagar,1212,2,0,8524.17,1
+2977,Jayanagar,1540,2,3,10129.41,3
+2978,Koramangala,1501,5,2,11510.68,1
+2979,BTM Layout,904,3,0,7049.01,4
+2980,Indira Nagar,1161,4,1,9121.34,1
+2981,BTM Layout,1307,4,1,9240.95,4
+2982,Whitefield,1043,4,1,6466.09,4
+2983,Marathahalli,1995,5,0,10963.99,5
+2984,Electronic City,1010,1,1,4152.84,5
+2985,Indira Nagar,1070,2,2,9377.66,5
+2986,Electronic City,1018,3,0,5348.76,5
+2987,BTM Layout,1717,3,1,8289.74,4
+2988,Marathahalli,1070,5,2,4489.4,4
+2989,Marathahalli,1031,3,1,5114.15,5
+2990,HSR Layout,1880,5,0,8831.88,4
+2991,BTM Layout,1263,1,1,6660.35,2
+2992,Koramangala,1028,5,0,6038.07,2
+2993,HSR Layout,1842,4,2,14000.36,5
+2994,Whitefield,1433,3,1,6623.29,5
+2995,HSR Layout,1095,4,2,6088.36,4
+2996,Marathahalli,1071,4,2,6906.84,4
+2997,Whitefield,1573,3,3,10735.04,2
+2998,BTM Layout,1626,4,0,8720.33,5
+2999,HSR Layout,1470,4,1,11817.46,1
